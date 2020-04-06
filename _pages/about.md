@@ -12,7 +12,7 @@ I am a DPhil (PhD) candidate and Research Associate in the Department of Compute
 
 Research Interest
 ======
-My research interest revolves around an intersection between computer vision and machine learning, applied to a wide range of problems including navigation, positioning, mapping, object detection, or semantic segmentation, among others.
+My research interest revolves around the intersection between computer vision and machine learning, applied to a wide range of problems including navigation, positioning, mapping, object detection, or semantic segmentation, among others.
 
 Recent News
 ======
