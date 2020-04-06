@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a DPhil (PhD) candidate and Research Associate in the Department of Computer Science, University of Oxford, UK. Previously, I did my bachelor and master degree from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia.
+I am a DPhil (PhD) candidate and Research Associate in the Department of Computer Science, University of Oxford, UK, under the supervision from [Prof. Niki Trigoni] (http://www.cs.ox.ac.uk/people/niki.trigoni/) and [Prof. Andrew Markham] (http://www.cs.ox.ac.uk/people/andrew.markham/). Previously, I did my bachelor and master degree from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia.
 
 Research Interest
 ======
-My research interest revolves around an intersection between computer vision and machine learning, applied to a wide range of problems, including navigation, positioning, mapping, object detection or semantic segmentation, among others.
+My research interest revolves around intersection between computer vision and machine learning, applied to a wide range of problems, including navigation, positioning, mapping, object detection or semantic segmentation, among others.
 
 Recent News
 ======
