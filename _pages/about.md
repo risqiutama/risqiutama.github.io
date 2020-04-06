@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a DPhil (PhD) candidate and Research Associate in the Department of Computer Science, University of Oxford, UK, under the supervision from [Prof. Niki Trigoni](http://www.cs.ox.ac.uk/people/niki.trigoni/) and [Prof. Andrew Markham](http://www.cs.ox.ac.uk/people/andrew.markham/). Previously, I did my bachelor and master degree from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia.
+I am a DPhil (PhD) candidate and Research Associate in the Department of Computer Science, University of Oxford, UK, under the supervision from [Prof. Niki Trigoni](http://www.cs.ox.ac.uk/people/niki.trigoni/) and [Prof. Andrew Markham](http://www.cs.ox.ac.uk/people/andrew.markham/). Previously, I did my bachelor and master degree (M.Eng) from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia.
 
 Research Interest
 ======
