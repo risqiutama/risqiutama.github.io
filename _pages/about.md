@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ABout Me"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a DPhil (PhD) candidate and Research Associate in Department of Computer Science, University of Oxford, UK. Previously, I did my bachelor and master degree from Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia.
+I am a DPhil (PhD) candidate and Research Associate in the Department of Computer Science, University of Oxford, UK. Previously, I did my bachelor and master degree from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia.
 #This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
 
 Research Interest
