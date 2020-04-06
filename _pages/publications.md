@@ -14,7 +14,7 @@ Please find the full list of my papers on [my Google Scholar profile](https://sc
 
 <b>[Distilling Knowledge From a Deep Pose Regressor Network](https://risqiutama.github.io/publication/iccv_2019) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, P. B. D. Gusmao, Y. Almalioglu, A. Markham, and N. Trigoni <br>
-<i> IEEE/CFV International Conference on Computer Vision (ICCV), 2019. </i> <font color="#FF1493">[CORE A*]</font>
+<i> IEEE/CFV International Conference on Computer Vision (ICCV), 2019. </i> <font color="#FF1493">[CORE A*, acceptance rate: 25%]</font>
 
 <b>[DeepPCO: End-to-End Point Cloud Odometry through Deep Parallel Neural Network](https://risqiutama.github.io/publication/deeppco_iros_2019) </b> 
 <br> W. Wang, <b>Muhamad Risqi U. Saputra</b>, P. Zhao, P. B. D. Gusmao, B. Yang, C. Chen, A. Markham, and N. Trigoni <br>
