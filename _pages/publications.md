@@ -24,6 +24,10 @@ Please find the full list of my papers on [my Google Scholar profile](https://sc
 <br> <b>Muhamad Risqi U. Saputra</b>, P. B. D. Gusmao, Y. Almalioglu, A. Markham, N. Trigoni <br>
 <i> IEEE International Conference on Robotics and Automation (ICRA), 2019. </i> <font color="#FF1493">[CORE B]</font>
 
+<b>[Visual SLAM and structure from motion in dynamic environments: A survey](https://risqiutama.github.io/publication/csur_2018) </b> 
+<br> <b>Muhamad Risqi U. Saputra</b>, A. Markham, N. Trigoni <br>
+<i> ACM Computing Surveys, 51 (2), 2018. </i> <font color="#FF7F00">[Q1, IF=6.748]</font> 
+
 <b>[Obstacle Avoidance for Visually Impaired Using Auto-Adaptive Thresholding on Kinect's Depth Image](https://risqiutama.github.io/publication/uic_2014) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, Widyawan, P. I. Santosa <br>
 <i> IEEE International Conference on Ubiquitous Intelligence and Computing (UIC), 2014. </i> <font color="#FF1493">[CORE B]</font>
