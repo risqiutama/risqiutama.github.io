@@ -10,7 +10,7 @@ Please find the full list of my papers on [my Google Scholar profile](https://sc
 
 <b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://risqiutama.github.io/publication/deeptio_ral_2020) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, P. B. D. Gusmao, C. X. Lu, Y. Almalioglu, S. Rosa, C. Chen, J. Wahlstrom, W. Wang, A. Markham, and N. Trigoni <br>
-<i> IEEE Robotics and Automation Letters (RA-L), 2020, and will be presented in IEEE ICRA 2020. </i> <font color="#FF1493">[CORE B]</font>
+<i> IEEE Robotics and Automation Letters (RA-L), 5 (2) 2020, and will be presented in IEEE ICRA 2020. </i> <font color="#FF1493">[CORE B]</font>
 
 <b>[Distilling Knowledge From a Deep Pose Regressor Network](https://risqiutama.github.io/publication/iccv_2019) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, P. B. D. Gusmao, Y. Almalioglu, A. Markham, and N. Trigoni <br>
