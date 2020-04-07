@@ -12,8 +12,8 @@ The journal rank (Q4-Q1) and the conference rank (C-A*) are retrived from [Scima
 
 <font size="6" color="green">Pre-print</font>
 
-<b>[GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks](https://risqiutama.github.io/publication/ganvo_icra_2019) </b> 
-<br>  Y. Almalioglu, <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, A. Markham, and N. Trigoni <br>
+<b>[SelfVIO: Self-Supervised Deep Monocular Visual-Inertial Odometry and Depth Estimation](https://risqiutama.github.io/publication/selfvio_2019) </b> 
+<br>  Y. Almalioglu, M. Turan, A. E. Sari, <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, A. Markham, and N. Trigoni <br>
 <i> Under review in IEEE Transactions on Robotics (T-RO). </i>
 
 =====
