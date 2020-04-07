@@ -6,7 +6,7 @@ author_profile: true
 ---
 Please find the full list of my papers on [Google Scholar](https://scholar.google.com/citations?user=7wZkVT8AAAAJ&hl=en).
 
-The journal rank (Q4-Q1) and the conference rank (C-A*) are retrived from [ScimagoJR](https://www.scimagojr.com/) and [CORE](http://portal.core.edu.au/conf-ranks/) respectively. Note that a higher conference rank does not indicate a higher impact factor (e.g., ICRA is considered the most impactful publication venue in the field of [robotics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics) although it only got CORE Rank B). 
+The journal rank (Q4-Q1) and the conference rank (C-A*) are retrived from [ScimagoJR](https://www.scimagojr.com/) and [CORE](http://portal.core.edu.au/conf-ranks/) respectively. Note that a higher conference rank does not indicate a higher impact factor (e.g., ICRA is considered the most impactful publication venue in the field of [robotics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics) although it got less CORE Rank than IROS). 
 
 =====
 
