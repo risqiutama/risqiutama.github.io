@@ -10,7 +10,7 @@ The journal rank (Q4-Q1) and the conference rank (C-A*) are retrived from [Scima
 
 =====
 
-<font size="5" color="green">Pre-print</font>
+<font size="5" color="green"><b>Pre-print</b></font>
 
 <b>[SelfVIO: Self-Supervised Deep Monocular Visual-Inertial Odometry and Depth Estimation](https://risqiutama.github.io/publication/selfvio_2019) </b> 
 <br>  Y. Almalioglu, M. Turan, A. E. Sari, <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, A. Markham, and N. Trigoni <br>
@@ -18,7 +18,7 @@ The journal rank (Q4-Q1) and the conference rank (C-A*) are retrived from [Scima
 
 =====
 
-<font size="5" color="red">Selected Papers</font>
+<font size="5" color="red"><b>Selected Papers</b></font>
 
 <b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://risqiutama.github.io/publication/deeptio_ral_2020) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, C. X. Lu, Y. Almalioglu, S. Rosa, C. Chen, J. Wahlstrom, W. Wang, A. Markham, and N. Trigoni <br>
