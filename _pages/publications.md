@@ -6,9 +6,8 @@ author_profile: true
 ---
 Please find the full list of my papers on [Google Scholar](https://scholar.google.com/citations?user=7wZkVT8AAAAJ&hl=en).
 
-_The journal rank (Q4-Q1) and the conference rank (C-A*) presented here are retrived from [ScimagoJR](https://www.scimagojr.com/) and [CORE](http://portal.core.edu.au/conf-ranks/) respectively. Note that a higher conference rank does not always indicate a higher impact factor (e.g., ICRA is widely regarded as the most impactful publication venue in the field of [robotics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics) although its CORE Rank is lower than IROS). Please consult [CORE website](http://www.core.edu.au/conference-portal) for more detailed assessment methods._ 
+<font size="4">The journal rank (Q4-Q1) and the conference rank (C-A*) presented here are retrived from [ScimagoJR](https://www.scimagojr.com/) and [CORE](http://portal.core.edu.au/conf-ranks/) respectively. Note that a higher conference rank does not always indicate a higher impact factor (e.g., ICRA is widely regarded as the most impactful publication venue in the field of [robotics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics) although its CORE Rank is lower than IROS). Please consult [CORE website](http://www.core.edu.au/conference-portal) for more detailed assessment methods.</font>
 
-=====
 
 <font size="5" color="green"><b>Pre-print</b></font>
 
@@ -16,7 +15,6 @@ _The journal rank (Q4-Q1) and the conference rank (C-A*) presented here are retr
 <br>  Y. Almalioglu, M. Turan, A. E. Sari, <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, A. Markham, and N. Trigoni <br>
 <i> Under review in IEEE Transactions on Robotics (T-RO). </i>
 
-=====
 
 <font size="5" color="red"><b>Selected Papers</b></font>
 
