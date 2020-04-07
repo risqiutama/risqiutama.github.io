@@ -10,11 +10,15 @@ The journal rank (Q4-Q1) and the conference rank (C-A*) are retrived from [Scima
 
 =====
 
-## Preprint
+<font size="6" color="green">Pre-print</font>
+
+<b>[GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks](https://risqiutama.github.io/publication/ganvo_icra_2019) </b> 
+<br>  Y. Almalioglu, <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, A. Markham, and N. Trigoni <br>
+<i> Under review in IEEE Transactions on Robotics (T-RO). </i>
 
 =====
 
-## Selected papers
+<font size="6" color="red">Selected Papers</font>
 
 <b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://risqiutama.github.io/publication/deeptio_ral_2020) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, C. X. Lu, Y. Almalioglu, S. Rosa, C. Chen, J. Wahlstrom, W. Wang, A. Markham, and N. Trigoni <br>
