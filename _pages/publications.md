@@ -6,8 +6,6 @@ author_profile: true
 ---
 Please find the full list of my papers on [Google Scholar](https://scholar.google.com/citations?user=7wZkVT8AAAAJ&hl=en).
 
-_The journal rank (Q4-Q1) and the conference rank (C-A*) presented here are retrived from [ScimagoJR](https://www.scimagojr.com/) and [CORE](http://portal.core.edu.au/conf-ranks/) respectively. Note that a higher conference rank does not always indicate a higher impact factor (e.g., ICRA is widely regarded as the most impactful publication venue in the field of [robotics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics) although its CORE Rank is lower than IROS). Please consult [CORE website](http://www.core.edu.au/conference-portal) for more detailed assessment methods._
-
 ------
 <font size="5" color="green"><b>Pre-print</b></font>
 
@@ -45,3 +43,6 @@ _The journal rank (Q4-Q1) and the conference rank (C-A*) presented here are retr
 <b>[Obstacle Avoidance for Visually Impaired Using Auto-Adaptive Thresholding on Kinect's Depth Image](https://risqiutama.github.io/publication/uic_2014) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, Widyawan, and P. I. Santosa <br>
 <i> IEEE International Conference on Ubiquitous Intelligence and Computing (UIC), 2014. </i> <font color="#FF1493">[CORE B]</font>
+
+-----
+_The journal rank (Q4-Q1) and the conference rank (C-A*) presented above are retrived from [ScimagoJR](https://www.scimagojr.com/) and [CORE](http://portal.core.edu.au/conf-ranks/) respectively. Note that a higher conference rank does not always indicate a higher impact factor (e.g., ICRA is widely regarded as the most impactful publication venue in the field of [robotics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics) although its CORE Rank is lower than IROS). Please consult [CORE website](http://www.core.edu.au/conference-portal) for more detailed assessment methods._
