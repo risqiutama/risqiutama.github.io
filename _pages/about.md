@@ -16,7 +16,7 @@ My research interest revolves around the intersection between computer vision an
 
 Recent News
 ======
-* April 2020. I have successfully defended my thesis assessed by [Prof. Walterio](https://scholar.google.com/citations?user=wzdFhjUAAAAJ&hl=en&oi=ao) and [Prof. Nic Lane](https://scholar.google.com/citations?user=IleoLUgAAAAJ&hl=en&oi=sra)!
+* April 2020. I have successfully defended my DPhil thesis assessed by [Prof. Walterio](https://scholar.google.com/citations?user=wzdFhjUAAAAJ&hl=en&oi=ao) and [Prof. Nic Lane](https://scholar.google.com/citations?user=IleoLUgAAAAJ&hl=en&oi=sra)!
 * January 2020. A paper is accepted in [IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l), and will be presented in [IEEE ICRA 2020](https://www.icra2020.org/)!
 * November 2019. I presented a paper in [IEEE/CVF ICCV 2019](http://iccv2019.thecvf.com/) in Seoul, South Korea.
 * October 2019. I will start a new role as a Research Associate in [ACE-OPS](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/S030832/1) effectively from February 2020.
