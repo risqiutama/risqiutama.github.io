@@ -13,6 +13,9 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 <br>  Y. Almalioglu, M. Turan, A. E. Sari, <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, A. Markham, and N. Trigoni <br>
 <i> Under review in IEEE Transactions on Robotics (T-RO). </i>
 
+<b>[milliEgo: mmWave Aided Egomotion Estimation with Deep Sensor Fusion](https://risqiutama.github.io/publication/milliego_2020) </b> 
+<br>  C. X. Lu, <b>Muhamad Risqi U. Saputra</b>, P. Zhao, Y. Almalioglu, P. P. B. de Gusmao, C. Chen, K. Sun, N. Trigoni, and A. Markham <br>
+
 ------
 <font size="5" color="red"><b>Selected Papers</b></font>
 
