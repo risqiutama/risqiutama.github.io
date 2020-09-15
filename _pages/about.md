@@ -16,6 +16,7 @@ My research interest revolves around the intersection between computer vision an
 
 Recent News
 ======
+* September 2021. Our paper [milliEgo](https://arxiv.org/abs/2006.02266) has been accepted in ACM SenSys 2020!
 * July 2021. Our paper [DeepTIO](https://arxiv.org/abs/1909.07231) has been presented in online ICRA 2020.
 * April 2020. I have successfully defended my DPhil thesis assessed by [Prof. Walterio](https://scholar.google.com/citations?user=wzdFhjUAAAAJ&hl=en&oi=ao) and [Prof. Nic Lane](https://scholar.google.com/citations?user=IleoLUgAAAAJ&hl=en&oi=sra)!
 * January 2020. A paper is accepted in [IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l), and will be presented in [IEEE ICRA 2020](https://www.icra2020.org/)!
