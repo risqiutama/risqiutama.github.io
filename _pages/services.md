@@ -15,6 +15,7 @@ author_profile: true
   * ACM Computing Surveys (CSUR)
   * ACM Transactions on Internet of Things (T-IOT)
   * Elsevier Future Generation Computer Systems (FGCS)
+  * Elsevier Neurocomputing
   * Springer Journal of Intelligent & Robotic Systems (JINT)
 * Research Grant Reviewer
   * External Reviewer for National Science Centre (NSC), Poland
