@@ -14,7 +14,7 @@ Research Interest
 ======
 My main research interest revolves around the intersection between computer vision and machine (deep) learning, applied to a wide range of problems including navigation, positioning, mapping, object detection, or semantic segmentation, among others.
 
-Nevertheless, I am also keen to work in a wide area of cyber-physical systems which typically combines multi-modal sensor data with AI-based intelligent inference systems.
+Nevertheless, I am also keen to work in the area of cyber-physical systems which typically combines multi-modal sensor data with AI-based intelligent inference systems.
 
 Recent News
 ======
