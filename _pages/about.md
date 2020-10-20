@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a DPhil (PhD) candidate and Research Associate in the Department of Computer Science, University of Oxford, United Kingdom (UK), under the supervision from [Prof. Niki Trigoni](http://www.cs.ox.ac.uk/people/niki.trigoni/) and [Prof. Andrew Markham](http://www.cs.ox.ac.uk/people/andrew.markham/). Previously, I did my bachelor and master degree (M.Eng) from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia. In the past, I also co-founded [LexiPal Indonesia](http://lexipalindonesia.com).
+I am a Research Associate in the Department of Computer Science, University of Oxford, United Kingdom (UK), under the supervision from [Prof. Niki Trigoni](http://www.cs.ox.ac.uk/people/niki.trigoni/) and [Prof. Andrew Markham](http://www.cs.ox.ac.uk/people/andrew.markham/). Previously, I did my DPhil (PhD) in the same group with the same supervisor. I obtained bachelor and master degree (M.Eng) from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia. In the past, I also co-founded [LexiPal Indonesia](http://lexipalindonesia.com).
 
 Research Interest
 ======
-My research interest revolves around the intersection between computer vision and machine learning, applied to a wide range of problems including navigation, positioning, mapping, object detection, or semantic segmentation, among others.
+My main research interest revolves around the intersection between computer vision and machine (deep) learning, applied to a wide range of problems including navigation, positioning, mapping, object detection, or semantic segmentation, among others.
+
+Nevertheless, I am also keen to work in a wide area of cyber-physical systems which typically combines multi-modal sensor data with AI-based intelligent inference systems.
 
 Recent News
 ======
