@@ -10,12 +10,12 @@ author_profile: true
   * 2019: IEEE ICRA (1)
   * 2018: ICITEE (3)
 * Journal Reviewer
-  * IEEE Transactions on Robotics (T-RO)
-  * IEEE Robotics and Automation Letters (RA-L)
-  * ACM Computing Surveys (CSUR)
-  * ACM Transactions on Internet of Things (T-IOT)
-  * Elsevier Future Generation Computer Systems (FGCS)
-  * Elsevier Neurocomputing
-  * Springer Journal of Intelligent & Robotic Systems (JINT)
+  * IEEE Transactions on Robotics (1)
+  * IEEE Robotics and Automation Letters (2)
+  * ACM Computing Surveys (2)
+  * ACM Transactions on Internet of Things (1)
+  * Elsevier Future Generation Computer Systems (1)
+  * Elsevier Neurocomputing (1)
+  * Springer Journal of Intelligent & Robotic Systems (1)
 * Research Grant Reviewer
   * External Reviewer for National Science Centre (NSC), Poland
