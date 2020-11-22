@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 * Program Committee / Conference Reviewer
-  * 2020: AAAI (5), IEEE ICRA (2), IEEE IROS (1), ICITEE (1)
+  * 2021: AAAI (5), IEEE ICRA (1)
+  * 2020: IEEE ICRA (2), IEEE IROS (1), ICITEE (1)
   * 2019: IEEE ICRA (1)
   * 2018: ICITEE (3)
 * Journal Reviewer
