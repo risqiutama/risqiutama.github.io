@@ -18,6 +18,7 @@ Nevertheless, I am also keen to work in the area of cyber-physical systems which
 
 Recent News
 ======
+* December 2020. 1 paper is accepted to AAAI 2021!
 * September 2020. Our paper [milliEgo](https://arxiv.org/abs/2006.02266) has been accepted in ACM SenSys 2020!
 * July 2020. Our paper [DeepTIO](https://arxiv.org/abs/1909.07231) has been presented in online ICRA 2020.
 * April 2020. I have successfully defended my DPhil thesis assessed by [Prof. Walterio](https://scholar.google.com/citations?user=wzdFhjUAAAAJ&hl=en&oi=ao) and [Prof. Nic Lane](https://scholar.google.com/citations?user=IleoLUgAAAAJ&hl=en&oi=sra)!
