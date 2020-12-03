@@ -58,7 +58,8 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 
 2014
 ----
-<b>[Obstacle Avoidance for Visually Impaired Using Auto-Adaptive Thresholding on Kinect's Depth Image](https://risqiutama.github.io/publication/uic_2014) </b> 
+
+- <b>[Obstacle Avoidance for Visually Impaired Using Auto-Adaptive Thresholding on Kinect's Depth Image](https://risqiutama.github.io/publication/uic_2014) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, Widyawan, and P. I. Santosa <br>
 <i> IEEE International Conference on Ubiquitous Intelligence and Computing (<b>UIC</b>), 2014. </i> <font color="#FF1493">[CORE B]</font>
 
