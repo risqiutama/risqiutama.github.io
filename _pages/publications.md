@@ -9,7 +9,7 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 ------
 <font size="5" color="green"><b>Pre-print</b></font>
 
-<b>[SelfVIO: Self-Supervised Deep Monocular Visual-Inertial Odometry and Depth Estimation](https://risqiutama.github.io/publication/selfvio_2019) </b> 
+- <b>[SelfVIO: Self-Supervised Deep Monocular Visual-Inertial Odometry and Depth Estimation](https://risqiutama.github.io/publication/selfvio_2019) </b> 
 <br>  Y. Almalioglu, M. Turan, A. E. Sari, <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, A. Markham, and N. Trigoni <br>
 <i> Under review in IEEE Transactions on Robotics (T-RO). </i>
 
@@ -18,47 +18,46 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 
 2021
 ----
-<b>[VMLoc: Variational Fusion For Learning-Based Multimodal Camera Localization](https://risqiutama.github.io/publication/vmloc_2020) </b> 
+- <b>[VMLoc: Variational Fusion For Learning-Based Multimodal Camera Localization](https://risqiutama.github.io/publication/vmloc_2020) </b> 
 <br> K. Zhou, C. Chen, B. Wang, <b>Muhamad Risqi U. Saputra</b>, N. Trigoni, and A. Markham <br>
 <i> AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2020. </i> <font color="#FF1493">[CORE A*, AR: 21% from 7911 submissions]</font>
 
 2020
 ----
-<b>[milliEgo: Single-chip mmWave Radar Aided Egomotion Estimation via Deep Sensor Fusion](https://risqiutama.github.io/publication/milliego_2020) </b> 
+- <b>[milliEgo: Single-chip mmWave Radar Aided Egomotion Estimation via Deep Sensor Fusion](https://risqiutama.github.io/publication/milliego_2020) </b> 
 <br> C. X. Lu, <b>Muhamad Risqi U. Saputra</b>, P. Zhao, Y. Almalioglu, P. P. B. de Gusmao, C. Chen, K. Sun, N. Trigoni, and A. Markham <br>
 <i> ACM Conference on Embedded Networked Sensor Systems (<b>SenSys</b>), 2020. </i> <font color="#FF1493">[CORE A*, AR: 20% from 213 submissions]</font>
 
-<b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://risqiutama.github.io/publication/deeptio_ral_2020) </b> 
+- <b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://risqiutama.github.io/publication/deeptio_ral_2020) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, C. X. Lu, Y. Almalioglu, S. Rosa, C. Chen, J. Wahlstrom, W. Wang, A. Markham, and N. Trigoni <br>
 <i> IEEE Robotics and Automation Letters (<b>RA-L</b>), 5 (2) 2020, and was presented in IEEE ICRA 2020. </i> <font color="#FF7F00">[Q1, IF=3.608]</font> 
 
 2019
 ----
-<b>[Distilling Knowledge From a Deep Pose Regressor Network](https://risqiutama.github.io/publication/iccv_2019) </b> 
+- <b>[Distilling Knowledge From a Deep Pose Regressor Network](https://risqiutama.github.io/publication/iccv_2019) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, Y. Almalioglu, A. Markham, and N. Trigoni <br>
 <i> IEEE/CVF International Conference on Computer Vision (<b>ICCV</b>), 2019. </i> <font color="#FF1493">[CORE A*, AR: 25% from 4303 submissions]</font>
 
-<b>[DeepPCO: End-to-End Point Cloud Odometry through Deep Parallel Neural Network](https://risqiutama.github.io/publication/deeppco_iros_2019) </b> 
+- <b>[DeepPCO: End-to-End Point Cloud Odometry through Deep Parallel Neural Network](https://risqiutama.github.io/publication/deeppco_iros_2019) </b> 
 <br> W. Wang, <b>Muhamad Risqi U. Saputra</b>, P. Zhao, P. P. B. D. Gusmao, B. Yang, C. Chen, A. Markham, and N. Trigoni <br>
 <i> IEEE/RSJ International Conference on Intelligence Robots and Systems (<b>IROS</b>), 2019. </i> <font color="#FF1493">[CORE A]</font>
 
-<b>[GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks](https://risqiutama.github.io/publication/ganvo_icra_2019) </b> 
+- <b>[GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks](https://risqiutama.github.io/publication/ganvo_icra_2019) </b> 
 <br>  Y. Almalioglu, <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, A. Markham, and N. Trigoni <br>
 <i> IEEE International Conference on Robotics and Automation (<b>ICRA</b>), 2019. </i> <font color="#FF1493">[CORE B]</font>
 
-<b>[Learning Monocular Visual Odometry through Geometry-Aware Curriculum Learning](https://risqiutama.github.io/publication/clvo_icra_2019) </b> 
+- <b>[Learning Monocular Visual Odometry through Geometry-Aware Curriculum Learning](https://risqiutama.github.io/publication/clvo_icra_2019) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, Y. Almalioglu, A. Markham, and N. Trigoni <br>
 <i> IEEE International Conference on Robotics and Automation (<b>ICRA</b>), 2019. </i> <font color="#FF1493">[CORE B]</font>
 
 2018
 ----
-<b>[Visual SLAM and Structure from Motion in Dynamic Environments: A Survey](https://risqiutama.github.io/publication/csur_2018) </b> 
+- <b>[Visual SLAM and Structure from Motion in Dynamic Environments: A Survey](https://risqiutama.github.io/publication/csur_2018) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, A. Markham, and N. Trigoni <br>
 <i> ACM Computing Surveys (<b>CSUR</b>), 51 (2), 2018. </i> <font color="#FF7F00">[Q1, IF=6.748]</font> 
 
 2014
 ----
-
 - <b>[Obstacle Avoidance for Visually Impaired Using Auto-Adaptive Thresholding on Kinect's Depth Image](https://risqiutama.github.io/publication/uic_2014) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, Widyawan, and P. I. Santosa <br>
 <i> IEEE International Conference on Ubiquitous Intelligence and Computing (<b>UIC</b>), 2014. </i> <font color="#FF1493">[CORE B]</font>
