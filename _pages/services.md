@@ -12,7 +12,7 @@ author_profile: true
   * 2018: ICITEE (3)
 * Journal Reviewer
   * IEEE Transactions on Robotics (1)
-  * IEEE Robotics and Automation Letters (2)
+  * IEEE Robotics and Automation Letters (3)
   * ACM Computing Surveys (2)
   * ACM Transactions on Internet of Things (1)
   * Elsevier Future Generation Computer Systems (1)
