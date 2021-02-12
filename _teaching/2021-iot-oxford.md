@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Internet of Things (IoT)"
 collection: teaching
 type: "DPhil (PhD) course"
 permalink: /teaching/2021-iot-oxford
