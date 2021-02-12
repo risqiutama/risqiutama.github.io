@@ -4,7 +4,7 @@ collection: teaching
 type: "DPhil (PhD) course"
 permalink: /teaching/2021-iot-oxford
 venue: "Centre for Doctoral Training (CDT) Autonomous Intelligent Machines and Systems (AIMS), University of Oxford"
-date: 2021
+date: 2021-02-08
 location: "Oxford, United Kingdom"
 ---
 
