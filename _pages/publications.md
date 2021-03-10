@@ -11,7 +11,7 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 
 - <b>[SelfVIO: Self-Supervised Deep Monocular Visual-Inertial Odometry and Depth Estimation](https://risqiutama.github.io/publication/selfvio_2019) </b> 
 <br>  Y. Almalioglu, M. Turan, A. E. Sari, <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, A. Markham, and N. Trigoni <br>
-<i> Under review in IEEE Transactions on Robotics (T-RO). </i>
+<i> Under review in The Journal of Artificial Intelligence. </i>
 
 ------
 <font size="5" color="red"><b>Selected Papers</b></font>
