@@ -50,7 +50,7 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 ----
 - <b>[Visual SLAM and Structure from Motion in Dynamic Environments: A Survey](https://risqiutama.github.io/publication/csur_2018) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, A. Markham, and N. Trigoni <br>
-<i> ACM Computing Surveys (<b>CSUR</b>), 51 (2), 2018. </i> <font color="#FF7F00">[Q1, IF=6.748]</font> 
+<i> ACM Computing Surveys (<b>CSUR</b>), 51 (2), 2018. </i> <font color="#FF7F00">[Q1, IF=7.99]</font> 
 
 2014
 ----
