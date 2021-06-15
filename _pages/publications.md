@@ -9,18 +9,25 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 ------
 <font size="5" color="green"><b>Pre-print</b></font>
 
-- <b>[SelfVIO: Self-Supervised Deep Monocular Visual-Inertial Odometry and Depth Estimation](https://risqiutama.github.io/publication/selfvio_2019) </b> 
+- <b>[SelfVIO: Self-Supervised Deep Monocular Visual-Inertial Odometry and Depth Estimation](https://arxiv.org/abs/1911.09968) </b> 
 <br>  Y. Almalioglu, M. Turan, A. E. Sari, <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, A. Markham, and N. Trigoni <br>
 <i> Under review in The Journal of Artificial Intelligence. </i>
+
+- <b>[Graph-based Thermal-Inertial SLAM with Probabilistic Neural Networks](https://arxiv.org/abs/2104.07196) </b> 
+<br><b>Muhamad Risqi U. Saputra</b>, C. X. Lu, P. P. B. D. Gusmao, B. Wang, A. Markham, and N. Trigoni <br>
 
 ------
 <font size="5" color="red"><b>Selected Papers</b></font>
 
 2021
 ----
-- <b>[VMLoc: Variational Fusion For Learning-Based Multimodal Camera Localization](https://risqiutama.github.io/publication/vmloc_2020) </b> 
+- <b>[VMLoc: Variational Fusion For Learning-Based Multimodal Camera Localization](https://risqiutama.github.io/publication/vmloc_2021) </b> 
 <br> K. Zhou, C. Chen, B. Wang, <b>Muhamad Risqi U. Saputra</b>, N. Trigoni, and A. Markham <br>
 <i> AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2020. </i> <font color="#FF1493">[CORE A*, AR: 21% from 7911 submissions]</font>
+
+- <b>[Cut, Distil and Encode (CDE): Split Cloud-Edge  Deep Inference](https://risqiutama.github.io/publication/cde_2021) </b> 
+<br> M. Sbai, <b>Muhamad Risqi U. Saputra</b>, A. Markham, and N. Trigoni <br>
+<i> IEEE International Conference on Sensing, Communication and Networking  (<b>SECON</b>), 2020. </i> <font color="#FF1493">[CORE B]</font>
 
 2020
 ----
