@@ -23,11 +23,11 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 ----
 - <b>[VMLoc: Variational Fusion For Learning-Based Multimodal Camera Localization](https://risqiutama.github.io/publication/vmloc_2021) </b> 
 <br> K. Zhou, C. Chen, B. Wang, <b>Muhamad Risqi U. Saputra</b>, N. Trigoni, and A. Markham <br>
-<i> AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2020. </i> <font color="#FF1493">[CORE A*, AR: 21% from 7911 submissions]</font>
+<i> AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2021. </i> <font color="#FF1493">[CORE A*, AR: 21% from 7911 submissions]</font>
 
 - <b>[Cut, Distil and Encode (CDE): Split Cloud-Edge  Deep Inference](https://risqiutama.github.io/publication/cde_2021) </b> 
 <br> M. Sbai, <b>Muhamad Risqi U. Saputra</b>, A. Markham, and N. Trigoni <br>
-<i> IEEE International Conference on Sensing, Communication and Networking  (<b>SECON</b>), 2020. </i> <font color="#FF1493">[CORE B]</font>
+<i> IEEE International Conference on Sensing, Communication and Networking  (<b>SECON</b>), 2021. </i> <font color="#FF1493">[CORE B]</font>
 
 2020
 ----
