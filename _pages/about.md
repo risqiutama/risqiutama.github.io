@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor (Lecturer) in Data Science at Monash University, Indonesia. Previously, I was a Research Associate in the Department of Computer Science, University of Oxford, United Kingdom (UK), under the supervision from [Prof. Niki Trigoni](http://www.cs.ox.ac.uk/people/niki.trigoni/) and [Prof. Andrew Markham](http://www.cs.ox.ac.uk/people/andrew.markham/). I hold my DPhil (PhD) in the same group with the same supervisors. I obtained bachelor and master degree (M.Eng) from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia. In the past, I co-founded [LexiPal Indonesia](http://lexipalindonesia.com) and worked as a Senior Data Scientist at Jakarta Smart City.
+I am an Assistant Professor (Lecturer) in Data Science at [Monash University, Indonesia](https://www.monash.edu/indonesia). Previously, I was a Research Associate in the Department of Computer Science, University of Oxford, United Kingdom (UK), under the supervision from [Prof. Niki Trigoni](http://www.cs.ox.ac.uk/people/niki.trigoni/) and [Prof. Andrew Markham](http://www.cs.ox.ac.uk/people/andrew.markham/). I hold my DPhil (PhD) in the same group with the same supervisors. I obtained bachelor and master degree (M.Eng) from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia. In the past, I co-founded [LexiPal Indonesia](http://lexipalindonesia.com) and worked as a Senior Data Scientist at Jakarta Smart City.
 
 Research Interest
 ======
-My main research interest revolves around the intersection between computer vision and machine (deep) learning, applied to a wide range of problems including navigation, positioning, mapping, object detection, or semantic segmentation, among others. 
-
-Nevertheless, I am also keen to work in the area of cyber-physical systems which typically combines multi-modal sensor data with AI-based intelligent inference systems. In this area, the downstream application might be applicable in healthcare, smart cities, environmental monitoring, and many others.
+My main research interest revolves around the intersection between machine (deep) learning, computer vision, and cyber-physical systems, applied to a wide range of problems including navigation, positioning, mapping, object detection, or semantic segmentation, among others. Nevertheless, he is also keen to work in diverse interdisciplinary areas including, but not limited to, health science, assistive technology, smart cities, environmental monitoring, disaster prevention and management, intersecting with his main research interest.
 
 Recent News
 ======
+* August 2021. I am joining Monash University, Indonesia as Assistant Professor in Data Science!
 * May 2021. Received "Outstanding Reviewers" awards at CVPR 2021.
 * April 2021. 1 paper is accepted to SECON 2021.
 * December 2020. 1 paper is accepted to AAAI 2021!
