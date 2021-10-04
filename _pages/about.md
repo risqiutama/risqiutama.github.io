@@ -12,7 +12,7 @@ I am an Assistant Professor (Lecturer) in Data Science at [Monash University, In
 
 Research Interest
 ======
-My main research interest revolves around the intersection between machine (deep) learning, computer vision, and cyber-physical systems, applied to a wide range of problems including navigation, positioning, mapping, object detection, or semantic segmentation, among others. Nevertheless, he is also keen to work in diverse interdisciplinary areas including, but not limited to, health science, assistive technology, smart cities, environmental monitoring, disaster prevention and management, intersecting with his main research interest.
+My main research interest revolves around the intersection between machine (deep) learning, computer vision, and cyber-physical systems, applied to a wide range of problems including navigation, positioning, mapping, object detection, or semantic segmentation, among others. Nevertheless, I am also keen to work in diverse interdisciplinary areas including, but not limited to, health science, assistive technology, smart cities, environmental monitoring, disaster prevention and management, intersecting with his main research interest.
 
 Recent News
 ======
