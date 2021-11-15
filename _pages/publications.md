@@ -13,14 +13,17 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 <br>  Y. Almalioglu, M. Turan, A. E. Sari, <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, A. Markham, and N. Trigoni <br>
 <i> Under review in The Journal of Artificial Intelligence. </i>
 
-- <b>[Graph-based Thermal-Inertial SLAM with Probabilistic Neural Networks](https://arxiv.org/abs/2104.07196) </b> 
-<br><b>Muhamad Risqi U. Saputra</b>, C. X. Lu, P. P. B. D. Gusmao, B. Wang, A. Markham, and N. Trigoni <br>
+
 
 ------
 <font size="5" color="red"><b>Selected Papers</b></font>
 
 2021
 ----
+- <b>[Graph-based Thermal-Inertial SLAM with Probabilistic Neural Networks](https://arxiv.org/abs/2104.07196) </b> 
+<br><b>Muhamad Risqi U. Saputra</b>, C. X. Lu, P. P. B. D. Gusmao, B. Wang, A. Markham, and N. Trigoni <br>
+<i> IEEE Transactions on Robotics (<b>T-RO</b>), 2021. </i> <font color="#FF7F00">[Q1, IF=5.567]</font>
+
 - <b>[VMLoc: Variational Fusion For Learning-Based Multimodal Camera Localization](https://risqiutama.github.io/publication/vmloc_2021) </b> 
 <br> K. Zhou, C. Chen, B. Wang, <b>Muhamad Risqi U. Saputra</b>, N. Trigoni, and A. Markham <br>
 <i> AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2021. </i> <font color="#FF1493">[CORE A*, AR: 21% from 7911 submissions]</font>
