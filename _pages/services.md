@@ -19,5 +19,6 @@ author_profile: true
   * Elsevier Future Generation Computer Systems (1)
   * Elsevier Neurocomputing (1)
   * Springer Journal of Intelligent & Robotic Systems (1)
+  * MDPI Micromachines (1)
 * Research Grant Reviewer
   * External Reviewer for National Science Centre (NSC), Poland
