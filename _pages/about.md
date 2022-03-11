@@ -16,6 +16,7 @@ My main research interest revolves around the intersection between machine (deep
 
 Recent News
 ======
+* March 2022. [Self-VIO](https://www.sciencedirect.com/science/article/pii/S0893608022000752) is accepted to Neural Networks.
 * October 2021. Our [TI-SLAM](https://arxiv.org/abs/2104.07196) got accepted to IEEE Transactions on Robotics!
 * August 2021. I am joining Monash University, Indonesia as Assistant Professor in Data Science!
 * May 2021. Received "Outstanding Reviewers" awards at CVPR 2021.
