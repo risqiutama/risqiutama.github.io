@@ -9,14 +9,18 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 ------
 <font size="5" color="green"><b>Pre-print</b></font>
 
-- <b>[SelfVIO: Self-Supervised Deep Monocular Visual-Inertial Odometry and Depth Estimation](https://arxiv.org/abs/1911.09968) </b> 
-<br>  Y. Almalioglu, M. Turan, A. E. Sari, <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, A. Markham, and N. Trigoni <br>
-<i> Under review in The Journal of Artificial Intelligence. </i>
-
-
+- <b>[RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather](https://arxiv.org/abs/2112.02469) </b> 
+<br>  J. Wang, <b>Muhamad Risqi U. Saputra</b>, C. X. Lu, N. Trigoni, and A. Markham <br>
 
 ------
 <font size="5" color="red"><b>Selected Papers</b></font>
+
+2022
+----
+- <b>[SelfVIO: Self-Supervised Deep Monocular Visual-Inertial Odometry and Depth Estimation](https://www.sciencedirect.com/science/article/pii/S0893608022000752) </b> 
+<br>  Y. Almalioglu, M. Turan, A. E. Sari, <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, A. Markham, and N. Trigoni <br>
+<i> Neural Networks, 2022 </i> <font color="#FF7F00">[Q1, IF=8.05]</font>
+
 
 2021
 ----
