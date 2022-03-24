@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor (Lecturer) in Data Science at [Monash University, Indonesia](https://www.monash.edu/indonesia). Previously, I was a Research Associate in the Department of Computer Science, University of Oxford, United Kingdom (UK), under the supervision from [Prof. Niki Trigoni](http://www.cs.ox.ac.uk/people/niki.trigoni/) and [Prof. Andrew Markham](http://www.cs.ox.ac.uk/people/andrew.markham/). I hold my DPhil (PhD) in the same group with the same supervisors. I obtained bachelor and master degree (M.Eng) from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia. In the past, I co-founded [LexiPal Indonesia](http://lexipalindonesia.com) and worked as a Senior Data Scientist at Jakarta Smart City.
+I am an Assistant Professor in Data Science at [Monash University, Indonesia](https://www.monash.edu/indonesia). Previously, I was a Research Associate in the Department of Computer Science, University of Oxford, United Kingdom (UK), under the supervision from [Prof. Niki Trigoni](http://www.cs.ox.ac.uk/people/niki.trigoni/) and [Prof. Andrew Markham](http://www.cs.ox.ac.uk/people/andrew.markham/). I hold my DPhil (PhD) in the same group with the same supervisors. I obtained bachelor and master degree (M.Eng) from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia. In the past, I co-founded [LexiPal Indonesia](http://lexipalindonesia.com) and worked as a Senior Data Scientist at Jakarta Smart City.
 
 Research Interest
 ======
