@@ -4,7 +4,7 @@ collection: teaching
 type: "Master degree course"
 permalink: /teaching/2022-01-15-miitresearch
 venue: "Master of Data Science, Monash University, Indonesia"
-date: 2021-10-03
+date: 2022-01-15
 location: "BSD City, Banten, Indonesia"
 ---
 
