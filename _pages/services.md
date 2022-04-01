@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * Program Committee / Conference Reviewer
-  * 2022: IEEE/RSJ IROS (7)
+  * 2022: IEEE/RSJ IROS (7), ICUAS (1)
   * 2021: AAAI (5), IEEE/CVF CVPR (4), IEEE/CVF ICCV (7), IEEE ICRA (2), IEEE/RSJ IROS (1), IEEE SSCI (5)
   * 2020: IEEE ICRA (2), IEEE IROS (1), ICITEE (1)
   * 2019: IEEE ICRA (1)
