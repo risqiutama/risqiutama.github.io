@@ -14,6 +14,7 @@ author_profile: true
 * Journal Reviewer
   * IEEE Transactions on Robotics (1)
   * IEEE Transactions on Cognitive and Developmental Systems (1)
+  * IEEE Transactions on Cybernetics (1)
   * IEEE Robotics and Automation Letters (7)
   * ACM Computing Surveys (2)
   * ACM Transactions on Internet of Things (1)
