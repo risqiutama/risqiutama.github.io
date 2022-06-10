@@ -18,4 +18,4 @@ The aim of the project is to perform remote sensing, geo-spatial and socio-envir
  
 **Funding**: Google Research Scholar Award (PI), Ford Foundation (Co-PI), and UQ-MI Research Collaboration (Co-PI)
 
-**Jobs**: [Multiple positions available for Post-Doc/Research Associate/Research Assistant!](https://risqiutama.github.io/posts/opening_ra_mining_2022)
+**Jobs**: [Multiple positions available for Post-Doc/Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_mining_2022)
