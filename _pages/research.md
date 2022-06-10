@@ -9,10 +9,10 @@ My main research interest revolves around the intersection between machine (deep
 
 In the past, I contributed to [NIST-IPSER](https://www.cs.ox.ac.uk/projects/LBSemergresp/) and [ACE-OPS](https://www.cs.ox.ac.uk/projects/ACE-OPS/).
 
-**Current Research Project**
+<font size="5" color="red"><b>Current Research Project</b></font>
 ======
 
-**Global Mining Watch**
+<font size="4" color="green"><b>Global Mining Watch</b></font>
 
 The aim of the project is to perform remote sensing, geo-spatial and socio-environmental analysis of global mining footprints, supporting social impact and risk assessment of mining sites around the world. The project will utilise cutting-edge computer vision and deep-learning approaches, GIS analysis of global data and new approaches to web-based mapping and visualisation of socio-ecological environmental challenges. The project under the ‘Global Mining Watch’ umbrella will be funded from multiple funding bodies, including Google Research Scholar Award, Ford Foundation, and joint initiative between Monash University Indonesia and the University of Queensland.
  
