@@ -1,7 +1,7 @@
 ---
 title: 'Blog Post number 1'
 date: 2012-08-14
-permalink: /posts/opening_ra_mining_2022
+permalink: /post/opening_ra_mining_2022
 tags:
   - cool posts
   - category1
