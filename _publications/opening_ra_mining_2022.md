@@ -1,7 +1,7 @@
 ---
 title: 'Opening RA Global Mining Watch'
 date: 2022-06-10
-permalink: /post/opening_ra_mining_2022
+permalink: /publication/opening_ra_mining_2022
 tags:
   - cool posts
   - category1
