@@ -15,7 +15,7 @@ Three RAs will be employed on the project focusing on different disciplinary are
 
 You will have excellent communication skills in English, both in verbal and in writing. Specific requirements for particular position will be described as follows:
 
-<font size="4" color="green"><b>Senior Research Associate/Post-doc (SRA) in Computer Vision</b></font>
+<font size="5" color="green"><b>Senior Research Associate/Post-doc (SRA) in Computer Vision</b></font>
 
 Developing deep-learning and computer vision algorithms for mapping the global distribution of mining operations using multi-spectral earth observation data.
 
@@ -39,7 +39,7 @@ Desirable Selection Criteria:
 - Experience on developing semantic segmentation algorithms and/or depth estimation from RGB/Structure-from-Motion
 - Experience or interest in the application of computer vision to remote sensing
 
-<font size="4" color="green"><b>Research Associate/Post-doc (RA) in GIS analyses using Python/R/Javascript</b></font>
+<font size="5" color="green"><b>Research Associate/Post-doc (RA) in GIS analyses using Python/R/Javascript</b></font>
 
 Developing scripts for automating the geospatial analysis of global-scale mining and existing spatial data to characterise social and environmental impacts of resource extraction.
 
@@ -68,12 +68,11 @@ Desirable Selection Criteria:
 - Experience in ArcGIS and/or remote sensing software
 - Background or interest in ecology or environmental sciences
 
-<font size="4" color="green"><b>Research Assistant/Associate (RA) in Geo-spatial Analytics</b></font>
+<font size="5" color="green"><b>Research Assistant/Associate (RA) in Geo-spatial Analytics</b></font>
 
 Providing GIS support including remote sensing, mapping, digitising and environmental geospatial analyses using ArcGIS.
 
 Responsibilities:
-
 - Conduct geoprocessing analysis of spatial indicators and proxies of a range of social and environmental issues related to mining
 - Image interpretation, digitising and classification of true-colour high resolution imagery
 - Visualise and analyse spatial datasets
@@ -81,14 +80,12 @@ Responsibilities:
 - Actively collaborate with experts and partners from diverse disciplines
 
 Essential Selection Criteria:
-
 - Bachelor or Master degrees in Geospatial analysis/Geography/ Environmental Science or equivalent with a substantial GIS component
 - Substantial experience working with geospatial analysis of social and/or environmental issues
 - Experience in visualising and mapping environmental datasets
 - Skills in report writing and/or academic publication
 
 Desirable Selection Criteria:
-
 - Remote sensing analysis
 - Experience in Google Earth Engine
 - Skills in web-mapping and visualisation
@@ -97,7 +94,7 @@ Desirable Selection Criteria:
 
 ======
 
-RA will have a competitive salary, basic social security insurance, funds for travel (attending conferences), and access to Monash University Indonesia facilities. Applicants must have an existing right to work in Indonesia (i.e. Indonesian citizen or in possession of a valid work visa).
+**RA will have a competitive salary, basic social security insurance, funds for travel (attending conferences), and access to Monash University Indonesia facilities. Applicants must have an existing right to work in Indonesia (i.e. Indonesian citizen or in possession of a valid work visa).**
 
 If you are interested, please send your application to both risqi.saputra@monash.edu and alex.lechner@monash.edu with the following:
 - Cover letter outlining your motivation
