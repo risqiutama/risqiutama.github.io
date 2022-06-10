@@ -10,6 +10,7 @@ My main research interest revolves around the intersection between machine (deep
 In the past, I contributed to [NIST-IPSER](https://www.cs.ox.ac.uk/projects/LBSemergresp/) and [ACE-OPS](https://www.cs.ox.ac.uk/projects/ACE-OPS/).
 
 <font size="5" color="red"><b>Current Research Project</b></font>
+=====
 
 <font size="4" color="green"><b>Global Mining Watch</b></font>
 
