@@ -1,6 +1,6 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
+title: 'Opening RA Global Mining Watch'
+date: 2022-06-10
 permalink: /post/opening_ra_mining_2022
 tags:
   - cool posts
