@@ -1,11 +1,7 @@
 ---
-title: 'Opening RA Global Mining Watch'
+title: 'Multiple Positions Available for Global Mining Watch'
 date: 2022-06-10
 permalink: /publication/opening_ra_mining_2022
-tags:
-  - cool posts
-  - category1
-  - category2
 ---
 
 <font size="5" color="red"><b>Research Associates/Postdoctoral Fellows for Global Mining Watch</b></font>
@@ -18,12 +14,11 @@ Three RAs will be employed on the project focusing on different disciplinary are
 
 You will have excellent communication skills in English, both in verbal and in writing. Specific requirements for particular position will be described as follows:
 
-<font size="4" color="green"><b>Senior Research Associate/Post-doc (SRA) in Computer Vision</b></font>
+<font size="5" color="green"><b>Senior Research Associate/Post-doc (SRA) in Computer Vision</b></font>
 
 Developing deep-learning and computer vision algorithms for mapping the global distribution of mining operations using multi-spectral earth observation data.
 
 Responsibilities:
-
 - Perform data engineering and wrangling from scatter resources (e.g., Sentinel Satellite imagery, Google Maps platform, etc.) 
 - Develop, train, test, and evaluate 1) semantic segmentation algorithms and 2) elevation surface models (RGB to Depth) from a large scale satellite images
 - Lead and/or contribute to writing report, conference paper, and/or journal articles in English
@@ -31,18 +26,16 @@ Responsibilities:
 - Leading and acting as point of contact for small group of RAs
 
 Essential Selection Criteria:
-
 - Experienced Master degree or PhD in Computer Science/Data Science/Computer Vision/Artificial Intelligence or equivalent
 - Substantial experience working on computer vision project, with proven ability in writing Python code and developing Machine Learning system
 - Track record of academic publications in English
 
 Desirable Selection Criteria:
-
 - Track record on working with large-scale machine learning and computer vision problem
 - Experience on developing semantic segmentation algorithms and/or depth estimation from RGB/Structure-from-Motion
 - Experience or interest in the application of computer vision to remote sensing
 
-<font size="4" color="green"><b>Research Associate/Post-doc (RA) in GIS analyses using Python/R/Javascript</b></font>
+<font size="5" color="green"><b>Research Associate/Post-doc (RA) in GIS analyses using Python/R/Javascript</b></font>
 
 Developing scripts for automating the geospatial analysis of global-scale mining and existing spatial data to characterise social and environmental impacts of resource extraction.
 
@@ -71,7 +64,7 @@ Desirable Selection Criteria:
 - Experience in ArcGIS and/or remote sensing software
 - Background or interest in ecology or environmental sciences
 
-<font size="4" color="green"><b>Research Assistant/Associate (RA) in Geo-spatial Analytics</b></font>
+<font size="5" color="green"><b>Research Assistant/Associate (RA) in Geo-spatial Analytics</b></font>
 
 Providing GIS support including remote sensing, mapping, digitising and environmental geospatial analyses using ArcGIS.
 
@@ -100,7 +93,7 @@ Desirable Selection Criteria:
 
 ======
 
-RA will have a competitive salary, basic social security insurance, funds for travel (attending conferences), and access to Monash University Indonesia facilities. Applicants must have an existing right to work in Indonesia (i.e. Indonesian citizen or in possession of a valid work visa).
+**RA will have a competitive salary, basic social security insurance, funds for travel (attending conferences), and access to Monash University Indonesia facilities. Applicants must have an existing right to work in Indonesia (i.e. Indonesian citizen or in possession of a valid work visa).**
 
 If you are interested, please send your application to both risqi.saputra@monash.edu and alex.lechner@monash.edu with the following:
 - Cover letter outlining your motivation
