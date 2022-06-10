@@ -17,4 +17,4 @@ The aim of the project is to perform remote sensing, geo-spatial and socio-envir
  
 **Funding**: Google Research Scholar Award (PI), Ford Foundation (Co-PI), and UQ-MI Research Collaboration (Co-PI)
 
-**Jobs**: Open position for Post-Doc/Research Associate/Research Assistant!
+**Jobs**: Multiple positions available for Post-Doc/Research Associate/Research Assistant!
