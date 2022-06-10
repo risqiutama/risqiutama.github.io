@@ -18,19 +18,19 @@ You will have excellent communication skills in English, both in verbal and in w
 
 Developing deep-learning and computer vision algorithms for mapping the global distribution of mining operations using multi-spectral earth observation data.
 
-Responsibilities:
+**Responsibilities**:
 - Perform data engineering and wrangling from scatter resources (e.g., Sentinel Satellite imagery, Google Maps platform, etc.) 
 - Develop, train, test, and evaluate 1) semantic segmentation algorithms and 2) elevation surface models (RGB to Depth) from a large scale satellite images
 - Lead and/or contribute to writing report, conference paper, and/or journal articles in English
 - Actively collaborate with experts and partners from diverse disciplines
 - Leading and acting as point of contact for small group of RAs
 
-Essential Selection Criteria:
+**Essential Selection Criteria**:
 - Experienced Master degree or PhD in Computer Science/Data Science/Computer Vision/Artificial Intelligence or equivalent
 - Substantial experience working on computer vision project, with proven ability in writing Python code and developing Machine Learning system
 - Track record of academic publications in English
 
-Desirable Selection Criteria:
+**Desirable Selection Criteria**:
 - Track record on working with large-scale machine learning and computer vision problem
 - Experience on developing semantic segmentation algorithms and/or depth estimation from RGB/Structure-from-Motion
 - Experience or interest in the application of computer vision to remote sensing
@@ -39,7 +39,7 @@ Desirable Selection Criteria:
 
 Developing scripts for automating the geospatial analysis of global-scale mining and existing spatial data to characterise social and environmental impacts of resource extraction.
 
-Responsibilities:
+**Responsibilities**:
 
 - Analysing large global scale GIS datasets
 - Automate GIS analyses using one or more scripting language such as Python/R/Javascript
@@ -49,14 +49,14 @@ Responsibilities:
 - Actively collaborate with experts and partners from diverse disciplines
 - Leading and acting as point of contact for small group of RAs
 
-Essential Selection Criteria:
+**Essential Selection Criteria**:
 
 - Master degree or PhD in Computer Science/Geospatial analysis/Geography/ Environmental Science or equivalent with a substantial GIS component
 - Substantial experience working with GIS and proven ability in scripting geospatial analysis
 - Experience in geospatial analysis of social and/or environmental issues 
 - Skills in report writing and/or academic publication in English
 
-Desirable Selection Criteria:
+**Desirable Selection Criteria**:
 
 - Remote sensing analysis
 - Experience in Google Earth Engine (in particularly), High Performance Computing and/or Cloud computing
@@ -68,7 +68,7 @@ Desirable Selection Criteria:
 
 Providing GIS support including remote sensing, mapping, digitising and environmental geospatial analyses using ArcGIS.
 
-Responsibilities:
+**Responsibilities**:
 
 - Conduct geoprocessing analysis of spatial indicators and proxies of a range of social and environmental issues related to mining
 - Image interpretation, digitising and classification of true-colour high resolution imagery
@@ -76,14 +76,14 @@ Responsibilities:
 - Contribute to writing report, conference paper, and/or journal articles in English
 - Actively collaborate with experts and partners from diverse disciplines
 
-Essential Selection Criteria:
+**Essential Selection Criteria**:
 
 - Bachelor or Master degrees in Geospatial analysis/Geography/ Environmental Science or equivalent with a substantial GIS component
 - Substantial experience working with geospatial analysis of social and/or environmental issues
 - Experience in visualising and mapping environmental datasets
 - Skills in report writing and/or academic publication
 
-Desirable Selection Criteria:
+**Desirable Selection Criteria**:
 
 - Remote sensing analysis
 - Experience in Google Earth Engine
@@ -95,9 +95,9 @@ Desirable Selection Criteria:
 
 **RA will have a competitive salary, basic social security insurance, funds for travel (attending conferences), and access to Monash University Indonesia facilities. Applicants must have an existing right to work in Indonesia (i.e. Indonesian citizen or in possession of a valid work visa).**
 
-If you are interested, please send your application to both risqi.saputra@monash.edu and alex.lechner@monash.edu with the following:
+**If you are interested, please send your application to both risqi.saputra@monash.edu and alex.lechner@monash.edu with the following:
 - Cover letter outlining your motivation
 - Response to the selection criteria
 - CV and other supporting documents
 
-The application remains open until the position is filled.
+The application remains open until the position is filled.**
