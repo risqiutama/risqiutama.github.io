@@ -1,11 +1,8 @@
 ---
-title: 'Opening RA Global Mining Watch'
+title: "Multiple Positions Available for Global Mining Watch"
+collection: publications
+permalink: /publication/opening_ra_mining_2022
 date: 2022-06-10
-permalink: /post/opening_ra_mining_2022
-tags:
-  - cool posts
-  - category1
-  - category2
 ---
 
 <font size="5" color="red"><b>Research Associates/Postdoctoral Fellows for Global Mining Watch</b></font>
