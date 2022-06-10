@@ -95,9 +95,9 @@ Providing GIS support including remote sensing, mapping, digitising and environm
 
 **RA will have a competitive salary, basic social security insurance, funds for travel (attending conferences), and access to Monash University Indonesia facilities. Applicants must have an existing right to work in Indonesia (i.e. Indonesian citizen or in possession of a valid work visa).**
 
-**If you are interested, please send your application to both risqi.saputra@monash.edu and alex.lechner@monash.edu with the following:
-- Cover letter outlining your motivation
-- Response to the selection criteria
-- CV and other supporting documents
+**If you are interested, please send your application to both risqi.saputra@monash.edu and alex.lechner@monash.edu with the following:**
+- **Cover letter outlining your motivation**
+- **Response to the selection criteria**
+- **CV and other supporting documents**
 
-The application remains open until the position is filled.**
+**The application remains open until the position is filled.**
