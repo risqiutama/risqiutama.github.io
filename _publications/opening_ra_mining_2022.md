@@ -100,4 +100,4 @@ Providing GIS support including remote sensing, mapping, digitising and environm
 - **Response to the selection criteria**
 - **CV and other supporting documents**
 
-**The application remains open until the position is filled.**
+**The application remains open until the position is filled. Nevertheless, please apply as soon as possible if you are interested.**
