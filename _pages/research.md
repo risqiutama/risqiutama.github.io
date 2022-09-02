@@ -11,8 +11,7 @@ In the past, I contributed to [NIST-IPSER](https://www.cs.ox.ac.uk/projects/LBSe
 
 -----
 
-<font size="5" color="red"><b>Current Research Project</b></font>
-
+<font size="5" color="red"><b>Current Research Project</b></font><br></br>
 
 <font size="4" color="green"><b>Global Mining Watch</b></font>
 
