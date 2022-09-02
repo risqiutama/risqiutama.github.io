@@ -16,6 +16,7 @@ My main research interest revolves around the intersection between machine (deep
 
 Recent News
 ======
+* August 2022. Funding from Monash Indonesia Seed Innovation Grant is secured for 2 projects.
 * April 2022. I am the recepient of [Google Research Scholar Award](https://research.google/outreach/research-scholar-program/)!
 * March 2022. [Self-VIO](https://www.sciencedirect.com/science/article/pii/S0893608022000752) is accepted to Neural Networks.
 * October 2021. Our [TI-SLAM](https://arxiv.org/abs/2104.07196) got accepted to IEEE Transactions on Robotics!
