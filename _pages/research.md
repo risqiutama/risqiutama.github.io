@@ -20,6 +20,8 @@ The aim of the project is to perform remote sensing, geo-spatial and socio-envir
 
 **Jobs**: [Multiple positions available for Post-Doc/Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_mining_2022)
 
+-----
+
 <font size="4" color="green"><b>Intelligent Remote Sensing for Sustainable Flood Risk Management and Policy</b></font>
 
 This research seeks to develop an intelligent remote sensing system that can segment and map the temporal dynamics of flooding on a daily basis using AI-based remote sensing approaches to help assess flood impacts and design more sustainable flood management policies. Our study is situated in Indonesia’s upper Citarum river basin where land use change has led to the occurrence of annual flooding events.
@@ -27,6 +29,8 @@ This research seeks to develop an intelligent remote sensing system that can seg
 **Funding**: Monash Indonesia Seed Innovation Grant (PI)
 
 **Jobs**: Will be available soon! 
+
+-----
 
 <font size="4" color="green"><b>Fintech For Social Impact</b></font>
 
