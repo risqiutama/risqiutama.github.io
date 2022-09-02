@@ -16,6 +16,18 @@ In the past, I contributed to [NIST-IPSER](https://www.cs.ox.ac.uk/projects/LBSe
 
 The aim of the project is to perform remote sensing, geo-spatial and socio-environmental analysis of global mining footprints, supporting social impact and risk assessment of mining sites around the world. The project will utilise cutting-edge computer vision and deep-learning approaches, GIS analysis of global data and new approaches to web-based mapping and visualisation of socio-ecological environmental challenges. The project under the ‘Global Mining Watch’ umbrella will be funded from multiple funding bodies, including Google Research Scholar Award, Ford Foundation, and joint initiative between Monash University Indonesia and the University of Queensland.
  
-**Funding**: Google Research Scholar Award (PI), Ford Foundation (Co-PI), and UQ-MI Research Collaboration (Co-PI)
+**Funding**: Multiple grants from Google Research Scholar Award (PI), Ford Foundation (Co-PI), and UQ-MI Research Collaboration (Co-PI)
 
 **Jobs**: [Multiple positions available for Post-Doc/Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_mining_2022)
+
+<font size="4" color="green"><b>Intelligent Remote Sensing for Sustainable Flood Risk Management and Policy</b></font>
+
+**Funding**: Monash Indonesia Seed Innovation Grant (PI)
+
+<font size="4" color="green"><b>Fintech For Social Impact</b></font>
+
+The project aims to help a fintech institution improve its risk assessment of individuals it might not usually lend to. This project combines expertise in Data Science/Machine Learning, Psychology, Human-Computer Interaction and Economics/Finance.
+
+**Funding**: Monash Indonesia Seed Innovation Grant (Co-PI)
+
+**Jobs**: [Multiple positions available for Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_fintech_2022)
