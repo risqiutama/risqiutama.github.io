@@ -4,7 +4,7 @@ date: 2022-09-02
 permalink: /publication/opening_ra_fintech_2022
 ---
 
-<font size="5" color="red"><b>Research Associates and Research Assitant Positions Available</b></font>
+<font size="5" color="red"><b>Research Associates and Research Assistant Positions Available</b></font>
 
 _Full-time and part-time, fixed-term for 6 and 12 months_
 
