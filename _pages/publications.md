@@ -17,7 +17,11 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 
 2022
 ----
-- <b>[SelfVIO: Self-Supervised Deep Monocular Visual-Inertial Odometry and Depth Estimation](https://www.sciencedirect.com/science/article/pii/S0893608022000752) </b> 
+- <b>[OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum](https://arxiv.org/pdf/2206.01589.pdf)</b> 
+<br>  P. Li, K. Cai, <b>Muhamad Risqi U. Saputra</b>, Z. Dai, and C. X. Lu <br>
+<i> IEEE/RSJ International Conference on Intelligence Robots and Systems (<b>IROS</b>), 2019. </i> <font color="#FF1493">[CORE A]</font>
+
+- <b>[SelfVIO: Self-Supervised Deep Monocular Visual-Inertial Odometry and Depth Estimation (https://www.sciencedirect.com/science/article/pii/S0893608022000752) </b> 
 <br>  Y. Almalioglu, M. Turan, A. E. Sari, <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, A. Markham, and N. Trigoni <br>
 <i> Neural Networks, 2022. </i> <font color="#FF7F00">[Q1, IF=8.05]</font>
 
