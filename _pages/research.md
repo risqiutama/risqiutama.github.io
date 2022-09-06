@@ -39,6 +39,6 @@ This research seeks to develop an intelligent remote sensing system that can seg
 
 The project aims to help a fintech institution improve its risk assessment of individuals it might not usually lend to. This project combines expertise in Data Science/Machine Learning, Psychology, Human-Computer Interaction and Economics/Finance.
 
-**Funding**: Monash Indonesia Seed Innovation Grant (Co-PI)
+**Funding**: Monash Indonesia Seed Innovation Grant, Monash University Australia - Action Lab, and a fintech startup company (Co-PI)
 
 **Jobs**: [Multiple positions available for Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_fintech_2022)
