@@ -7,7 +7,7 @@ author_profile: true
 
 My main research interest revolves around the intersection between machine (deep) learning, computer vision, and cyber-physical systems, applied to a wide range of problems including navigation, positioning, mapping, object detection, or semantic segmentation, among others. Nevertheless, I am also keen to work in diverse interdisciplinary areas including, but not limited to, disaster prevention and management, environmental monitoring, health science, assistive technology, smart cities, intersecting with my main research interest.
 
-In the past, I contributed to [NIST-IPSER](https://www.cs.ox.ac.uk/projects/LBSemergresp/) and [ACE-OPS](https://www.cs.ox.ac.uk/projects/ACE-OPS/).
+In the past, I contributed to Oxford's [NIST-IPSER](https://www.cs.ox.ac.uk/projects/LBSemergresp/) and [ACE-OPS](https://www.cs.ox.ac.uk/projects/ACE-OPS/).
 
 -----
 
