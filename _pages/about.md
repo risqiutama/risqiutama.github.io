@@ -16,7 +16,9 @@ My main research interest revolves around the intersection between machine (deep
 
 Recent News
 ======
+* October 2022. [Funding from Meta (Facebook) Research](https://research.facebook.com/blog/2022/9/announcing-the-winners-of-the-2022-meta-arvr-policy-research-request-for-proposals-for-the-asia-pacific-region/) is secured as co-PI!
 * August 2022. Funding from Monash Indonesia Seed Innovation Grant is secured for 2 projects.
+* July 2022. [1 paper](https://arxiv.org/pdf/2206.01589.pdf) is accepted to IROS.
 * April 2022. I am the recepient of [Google Research Scholar Award](https://research.google/outreach/research-scholar-program/)!
 * March 2022. [Self-VIO](https://www.sciencedirect.com/science/article/pii/S0893608022000752) is accepted to Neural Networks.
 * October 2021. Our [TI-SLAM](https://arxiv.org/abs/2104.07196) got accepted to IEEE Transactions on Robotics!
