@@ -4,7 +4,7 @@ date: 2022-09-02
 permalink: /publication/opening_ra_fintech_2022
 ---
 
-<font size="5" color="red"><b>[1] Research Associates and Research Assistant Positions Available</b></font>
+<font size="5" color="red"><b>Research Associates and Research Assistant Positions Available</b></font>
 
 _Full-time/Part-time, 6-12 months (with potential extension)_
 
@@ -16,7 +16,7 @@ The position is based at [Monash University (Indonesia)](https://www.monash.edu/
 
 You must possess verbal and written communication skills in English. Specific requirements for the position are as follows:
 
-<font size="5" color="green"><b>Research Assistant/Associate (RA) in Environmental/Ecological GIS </b></font>
+<font size="5" color="green"><b>[1] Research Assistant/Associate (RA) in Environmental/Ecological GIS </b></font>
 Providing GIS support including remote sensing, mapping, and digitising environmental geospatial analyses using ArcGIS.
 **Responsibilities**:
 - Conduct geoprocessing analysis of spatial indicators and proxies of a range of social and environmental
