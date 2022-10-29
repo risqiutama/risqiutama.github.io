@@ -1,7 +1,7 @@
 ---
 title: 'Multiple Positions Available for Flooding Project'
-date: 2022-09-02
-permalink: /publication/opening_ra_fintech_2022
+date: 2022-10-29
+permalink: /publication/opening_ra_citarum_2022
 ---
 
 <font size="5" color="red"><b>Research Associates and Research Assistant Positions Available</b></font>
