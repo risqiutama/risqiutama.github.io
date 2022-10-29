@@ -17,7 +17,9 @@ The position is based at [Monash University (Indonesia)](https://www.monash.edu/
 You must possess verbal and written communication skills in English. Specific requirements for the position are as follows:
 
 <font size="5" color="green"><b>[1] Research Assistant/Associate (RA) in Environmental/Ecological GIS </b></font>
+
 Providing GIS support including remote sensing, mapping, and digitising environmental geospatial analyses using ArcGIS.
+
 **Responsibilities**:
 - Conduct geoprocessing analysis of spatial indicators and proxies of a range of social and environmental
 - Spatially explicit ecological modelling i.e. connectivity modelling, ecosystem services modelling
@@ -41,7 +43,9 @@ Providing GIS support including remote sensing, mapping, and digitising environm
 - Skills in web-mapping and visualisation
 
 <font size="5" color="green"><b>[2] Senior Research Assistant/Associate (RA) in Computer Vision</b></font>
+
 Developing deep-learning and computer vision algorithms for mapping flooding.
+
 **Responsibilities**:
 
 - Perform data engineering and wrangling from scatter resources (e.g., Sentinel Satellite imagery, Google Maps platform, etc.) 
@@ -65,14 +69,13 @@ Developing deep-learning and computer vision algorithms for mapping flooding.
 
 ======
 
-**RA will have a competitive salary and access to Monash University Indonesia facilities. Applicants must have an existing right to work in Indonesia (i.e. Indonesian citizen or in possession of a valid work visa). You will be required to come into the Monash campus at Tangerang once a week at least.
-**
+**RA will have a competitive salary and access to Monash University Indonesia facilities. Applicants must have an existing right to work in Indonesia (i.e. Indonesian citizen or in possession of a valid work visa). You will be required to come into the Monash campus at Tangerang once a week at least.**
 
-**If you are interested, please send your application for position [1] RA GIS Environment to alex.lechner@monash.edu and for position [2] RA Computer Vision to Risqi.Saputra@monash.edu with the following:
-- Cover letter outlining your motivation
-- Response to the selection criteria
-- CV and other supporting documents
-- Include keywords in the email subject name “Citarum project”
+**If you are interested, please send your application for position [1] RA GIS Environment to alex.lechner@monash.edu and for position [2] RA Computer Vision to Risqi.Saputra@monash.edu with the following:**
+**- Cover letter outlining your motivation**
+**- Response to the selection criteria**
+**- CV and other supporting documents**
+**- Include keywords in the email subject name “Citarum project”**
 
-The application remains open until the position is filled.
+**The application remains open until the position is filled.
 **
