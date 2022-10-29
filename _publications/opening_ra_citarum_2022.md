@@ -77,5 +77,4 @@ Developing deep-learning and computer vision algorithms for mapping flooding.
 **- CV and other supporting documents**
 **- Include keywords in the email subject name “Citarum project”**
 
-**The application remains open until the position is filled.
-**
+**The application remains open until the position is filled.**
