@@ -72,9 +72,9 @@ Developing deep-learning and computer vision algorithms for mapping flooding.
 **RA will have a competitive salary and access to Monash University Indonesia facilities. Applicants must have an existing right to work in Indonesia (i.e. Indonesian citizen or in possession of a valid work visa). You will be required to come into the Monash campus at Tangerang once a week at least.**
 
 **If you are interested, please send your application for position [1] RA GIS Environment to alex.lechner@monash.edu and for position [2] RA Computer Vision to Risqi.Saputra@monash.edu with the following:**
-**- Cover letter outlining your motivation**
-**- Response to the selection criteria**
-**- CV and other supporting documents**
-**- Include keywords in the email subject name “Citarum project”**
+- **Cover letter outlining your motivation**
+- **Response to the selection criteria**
+- **CV and other supporting documents**
+- **Include keywords in the email subject name “Citarum project”**
 
 **The application remains open until the position is filled.**
