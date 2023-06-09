@@ -1,7 +1,7 @@
 ---
 title: 'Multiple Positions Available for Meta Project'
 date: 2023-06-09
-permalink: /publication/opening_ra_meta_2022
+permalink: /publication/opening_ra_meta_2023
 ---
 
 <font size="5" color="red"><b>Research Assistants Positions Available for Meta Project</b></font>
