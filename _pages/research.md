@@ -21,7 +21,7 @@ The aim of the project is to perform remote sensing, geo-spatial and socio-envir
  
 **Funding**: Multiple grants from Google Research Scholar Award (PI), Ford Foundation (Co-PI), and UQ-MI Research Collaboration (Co-PI)
 
-**Jobs**: [Multiple positions available for Post-Doc/Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_mining_2022)
+**Jobs**: [Multiple positions available for Post-Doc/Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_mining_2022) (Application closed)
 
 -----
 
@@ -31,7 +31,7 @@ This research seeks to develop an intelligent remote sensing system that can seg
 
 **Funding**: Monash Indonesia Seed Innovation Grant (PI) and MDFI
 
-**Jobs**: [Multiple positions available for Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_citarum_2022) 
+**Jobs**: [Multiple positions available for Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_citarum_2022) (Application closed)
 
 -----
 
@@ -41,4 +41,14 @@ The project aims to help a fintech institution improve its risk assessment of in
 
 **Funding**: Monash Indonesia Seed Innovation Grant, Monash University Australia - Action Lab, and a fintech startup company (Co-PI)
 
-**Jobs**: [Multiple positions available for Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_fintech_2022)
+**Jobs**: [Multiple positions available for Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_fintech_2022) (Application closed)
+
+-----
+
+<font size="4" color="green"><b>Regulating Sexual VAWs in Metaverse: An Interdisciplinary Diagnosis</b></font>
+
+The aim of the project is to legitimise the regulation of sexual violence against women in metaverse by providing various use-based justifications, to explore various Human-Computer Interaction (HCI) in the context of metaverse which has the potential to fertilise VAWs, and to explore and map aspects that may contribute to the development of an ecosystem of trust in metaverse.
+
+**Funding**: Meta/Facebook (Co-PI), PI is from Monash Malaysia
+
+**Jobs**: [Multiple positions available for Research Assistant!](https://risqiutama.github.io/publication/opening_ra_meta_2023)
