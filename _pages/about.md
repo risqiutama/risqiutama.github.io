@@ -28,4 +28,3 @@ Recent News
 * May 2021. Received "Outstanding Reviewers" awards at CVPR 2021.
 * April 2021. 1 paper is accepted to SECON 2021.
 * December 2020. 1 paper is accepted to AAAI 2021!
-* September 2020. Our paper [milliEgo](https://arxiv.org/abs/2006.02266) has been accepted in ACM SenSys 2020!
