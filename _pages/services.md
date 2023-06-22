@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 * (Senior) Program Committee / Conference Reviewer
+  * 2023: IEEE/RSJ IROS (3), PRICAI (3), AAAI
   * 2022: IEEE/RSJ IROS (7), ICUAS (1), AAAI (10)
   * 2021: AAAI (5), IEEE/CVF CVPR (4), IEEE/CVF ICCV (7), IEEE ICRA (2), IEEE/RSJ IROS (1), IEEE SSCI (5)
   * 2020: IEEE ICRA (2), IEEE IROS (1), ICITEE (1)
@@ -15,7 +16,8 @@ author_profile: true
   * IEEE Transactions on Robotics (1)
   * IEEE Transactions on Cognitive and Developmental Systems (1)
   * IEEE Transactions on Cybernetics (1)
-  * IEEE Robotics and Automation Letters (7)
+  * IEEE Transactions on Automation Science and Engineering (1)
+  * IEEE Robotics and Automation Letters (10)
   * ACM Computing Surveys (2)
   * ACM Transactions on Internet of Things (1)
   * Elsevier Future Generation Computer Systems (1)
