@@ -16,6 +16,8 @@ My main research interest revolves around the intersection between machine (deep
 
 Recent News
 ======
+* June 2023. 1 paper is accepted to IROS.
+* January 2023. I will be the Senior Program Committee for AAAI 2023 and 2024.
 * October 2022. [Funding from Meta (Facebook) Research](https://research.facebook.com/blog/2022/9/announcing-the-winners-of-the-2022-meta-arvr-policy-research-request-for-proposals-for-the-asia-pacific-region/) is secured as co-PI!
 * August 2022. Funding from Monash Indonesia Seed Innovation Grant is secured for 2 projects.
 * July 2022. [1 paper](https://arxiv.org/pdf/2206.01589.pdf) is accepted to IROS.
