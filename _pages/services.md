@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * (Senior) Program Committee / Conference Reviewer
-  * 2023: IEEE/RSJ IROS (3), PRICAI (3), AAAI
+  * 2023: IEEE/RSJ IROS (3), PRICAI (3), AAAI (15)
   * 2022: IEEE/RSJ IROS (7), ICUAS (1), AAAI (10)
   * 2021: AAAI (5), IEEE/CVF CVPR (4), IEEE/CVF ICCV (7), IEEE ICRA (2), IEEE/RSJ IROS (1), IEEE SSCI (5)
   * 2020: IEEE ICRA (2), IEEE IROS (1), ICITEE (1)
