@@ -6,7 +6,7 @@ author_profile: true
 ---
 Please find the full list of my papers on [Google Scholar](https://scholar.google.com/citations?user=7wZkVT8AAAAJ&hl=en).
 
-------
+[//]: # (------)
 [//]: # (<font size="5" color="green"><b>Pre-print</b></font>)
 
 ------
