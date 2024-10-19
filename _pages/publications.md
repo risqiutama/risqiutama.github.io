@@ -30,7 +30,7 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 ----
 - <b>[Graph-based Thermal-Inertial SLAM with Probabilistic Neural Networks](https://arxiv.org/abs/2104.07196) </b> 
 <br><b>Muhamad Risqi U. Saputra</b>, C. X. Lu, P. P. B. D. Gusmao, B. Wang, A. Markham, and N. Trigoni <br>
-<i> IEEE Transactions on Robotics (<b>T-RO</b>), 2021. </i> <font color="#FF7F00">[Q1, IF=5.567]</font>
+<i> IEEE Transactions on Robotics (<b>T-RO</b>), 2021. </i> <font color="#FF7F00">[Q1, IF=9.4]</font>
 
 - <b>[VMLoc: Variational Fusion For Learning-Based Multimodal Camera Localization](https://risqiutama.github.io/publication/vmloc_2021) </b> 
 <br> K. Zhou, C. Chen, B. Wang, <b>Muhamad Risqi U. Saputra</b>, N. Trigoni, and A. Markham <br>
@@ -47,7 +47,7 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 <i> ACM Conference on Embedded Networked Sensor Systems (<b>SenSys</b>), 2020. </i> <font color="#FF1493">[CORE A*, AR: 20% from 213 submissions]</font>
 - <b>[DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination](https://risqiutama.github.io/publication/deeptio_ral_2020) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, P. P. B. D. Gusmao, C. X. Lu, Y. Almalioglu, S. Rosa, C. Chen, J. Wahlstrom, W. Wang, A. Markham, and N. Trigoni <br>
-<i> IEEE Robotics and Automation Letters (<b>RA-L</b>), 5 (2) 2020, and was presented in IEEE ICRA 2020. </i> <font color="#FF7F00">[Q1, IF=3.608]</font> 
+<i> IEEE Robotics and Automation Letters (<b>RA-L</b>), 5 (2) 2020, and was presented in IEEE ICRA 2020. </i> <font color="#FF7F00">[Q1, IF=4.6]</font> 
 
 2019
 ----
@@ -68,7 +68,7 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 ----
 - <b>[Visual SLAM and Structure from Motion in Dynamic Environments: A Survey](https://risqiutama.github.io/publication/csur_2018) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, A. Markham, and N. Trigoni <br>
-<i> ACM Computing Surveys (<b>CSUR</b>), 51 (2), 2018. </i> <font color="#FF7F00">[Q1, IF=7.99]</font> 
+<i> ACM Computing Surveys (<b>CSUR</b>), 51 (2), 2018. </i> <font color="#FF7F00">[Q1, IF=23.8]</font> 
 
 2014
 ----
