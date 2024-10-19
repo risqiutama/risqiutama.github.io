@@ -7,10 +7,7 @@ author_profile: true
 Please find the full list of my papers on [Google Scholar](https://scholar.google.com/citations?user=7wZkVT8AAAAJ&hl=en).
 
 ------
-<font size="5" color="green"><b>Pre-print</b></font>
-
-- <b>[RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather](https://arxiv.org/abs/2112.02469) </b> 
-<br>  J. Wang, <b>Muhamad Risqi U. Saputra</b>, C. X. Lu, N. Trigoni, and A. Markham <br>
+[//]: # (<font size="5" color="green"><b>Pre-print</b></font>)
 
 ------
 <font size="5" color="red"><b>Selected Papers</b></font>
