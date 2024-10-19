@@ -15,11 +15,27 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 ------
 <font size="5" color="red"><b>Selected Papers</b></font>
 
+2024
+----
+- <b>[Recordkeeping in Voice-based Remote Community Engagement](https://dl.acm.org/doi/full/10.1145/3613904.3642779) </b> 
+<br>  M. Islam, D. Richardson, M. Saha, D. Varghese, T. Bartindale, P. Saha, <b>Muhamad Risqi U. Saputra</b>, and P. Olivier<br>
+<i> CHI Conference on Human Factors in Computing Systems (<b>CHI</b>), 2023. </i> <font color="#FF1493">[CORE A*]</font>
+
+- <b>[Increasing mine waste will induce land cover change that results in ecological degradation and human displacement](https://www.sciencedirect.com/science/article/pii/S0301479723024799) </b> 
+<br>  J. Owen, D. Kemp, A. Lechner, M. Ang, E. Lebre, G. Mudd, M. Macklin, <b>Muhamad Risqi U. Saputra</b>, T. Witra, and A. Bebbington <br>
+<i> Journal of Environmental Management, 351, 2024. </i> <font color="#FF7F00">[Q1, IF=8]</font>
+
+
 2023
 ----
 - <b>[RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather](https://arxiv.org/abs/2112.02469) </b> 
 <br>  J. Wang, <b>Muhamad Risqi U. Saputra</b>, C. X. Lu, N. Trigoni, and A. Markham <br>
 <i> IEEE/RSJ International Conference on Intelligence Robots and Systems (<b>IROS</b>), 2023. </i> <font color="#FF1493">[CORE A]</font>
+
+- <b>[Systematic review of GIS and remote sensing applications for assessing the socioeconomic impacts of mining](https://journals.sagepub.com/doi/full/10.1177/10704965231190126) </b> 
+<br>  M. Ang, J. Owen, C. Gibbins, E. Lebre, D. Kemp, <b>Muhamad Risqi U. Saputra</b>, J. Everingham, and A. Lechner <br>
+<i> The Journal of Environment and Development, 32 (3), 2023. </i> <font color="#FF7F00">[Q1, IF=2.3]</font>
+
 
 2022
 ----
