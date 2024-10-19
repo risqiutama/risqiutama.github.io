@@ -15,6 +15,12 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 ------
 <font size="5" color="red"><b>Selected Papers</b></font>
 
+2023
+----
+- <b>[RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather](https://arxiv.org/abs/2112.02469) </b> 
+<br>  J. Wang, <b>Muhamad Risqi U. Saputra</b>, C. X. Lu, N. Trigoni, and A. Markham <br>
+<i> IEEE/RSJ International Conference on Intelligence Robots and Systems (<b>IROS</b>), 2023. </i> <font color="#FF1493">[CORE A]</font>
+
 2022
 ----
 - <b>[OdomBeyondVision: An Indoor Multi-modal Multi-platform Odometry Dataset Beyond the Visible Spectrum](https://arxiv.org/pdf/2206.01589.pdf)</b> 
