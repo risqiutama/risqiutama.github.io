@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in Data Science and AI at [Monash University, Indonesia](https://www.monash.edu/indonesia). Previously, I was a Research Associate in the Department of Computer Science, University of Oxford, UK. I also did my DPhil (PhD) in Computer Science at the University of Oxford. Before coming to Oxford, I obtained bachelor and master degree (M.Eng) from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia. In the past, I co-founded [LexiPal Indonesia](http://lexipalindonesia.com) and worked as a Senior (Lead) Data Scientist at Jakarta Smart City.
+I am an Associate Professor in Data Science and AI at [Monash University, Indonesia](https://www.monash.edu/indonesia). Previously, I was a Postdoctoral Research Associate in the [Systems Research Group](https://www.cs.ox.ac.uk/research/cyberphysical/) within the Department of Computer Science at the University of Oxford, UK, where I also completed my DPhil (PhD). Before coming to Oxford, I obtained bachelor and master degree (M.Eng) from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia. In the past, I co-founded [LexiPal Indonesia](http://lexipalindonesia.com) and worked as a Senior (Lead) Data Scientist at Jakarta Smart City.
 
 Research Interest
 ======
-My main research interest revolves around the intersection between machine (deep) learning, computer vision, and cyber-physical systems, applied to a wide range of problems including navigation, positioning, mapping, object detection, or semantic segmentation, among others. Nevertheless, I am also keen to work in diverse interdisciplinary areas including, but not limited to, disaster prevention and management, environmental monitoring, assistive technology, health science, smart cities, intersecting with my main research interest. 
+My main research interest revolves around the intersection between computer vision, machine (deep) learning, and cyber-physical systems, applied to a wide range of problems including navigation, positioning, mapping, object detection, or semantic segmentation, among others. Nevertheless, I am also keen to explore diverse interdisciplinary applications that intersect with my primary research interests, including (but not limited to) disaster prevention and management, environmental monitoring, assistive technology, health science, and smart cities.
 
 Recent News
 ======
