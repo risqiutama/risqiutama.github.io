@@ -12,8 +12,19 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 ------
 <font size="5" color="red"><b>Selected Papers</b></font>
 
+2025
+----
+- <b>[Multi-modal deep learning approaches to semantic segmentation of mining footprints with multispectral satellite imagery](https://www.sciencedirect.com/science/article/pii/S0034425724006102) </b> 
+<br> <b>Muhamad Risqi U. Saputra</b>, I. Bhaswara, B. Nasution, M. Ang, N. Husna, T. Witra, V. Feliren, J. Owen, D. Kemp, and A. Lechner <br>
+<i> IEEE Geoscience and Remote Sensing Letters (GSRL), 22, 2024. </i> <font color="#FF7F00">[Q1, IF=4]</font>
+
+
 2024
 ----
+- <b>[Progressive Cross-Attention Network for Flood Segmentation Using Multispectral Satellite Imagery](https://ieeexplore.ieee.org/abstract/document/10750225) </b> 
+<br>  V. Feliren, F. Khikmah, I. Bhaswara, B. Nasution, A. Lechner, and <b>Muhamad Risqi U. Saputra</b> <br>
+<i> IEEE Geoscience and Remote Sensing Letters (GSRL), 22, 2024. </i> <font color="#FF7F00">[Q1, IF=4]</font>
+
 - <b>[Recordkeeping in Voice-based Remote Community Engagement](https://dl.acm.org/doi/full/10.1145/3613904.3642779) </b> 
 <br>  M. Islam, D. Richardson, M. Saha, D. Varghese, T. Bartindale, P. Saha, <b>Muhamad Risqi U. Saputra</b>, and P. Olivier<br>
 <i> CHI Conference on Human Factors in Computing Systems (<b>CHI</b>), 2023. </i> <font color="#FF1493">[CORE A*]</font>
