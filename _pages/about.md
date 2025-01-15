@@ -14,6 +14,8 @@ Research Interest
 ======
 My main research interest revolves around the intersection between computer vision, machine (deep) learning, and cyber-physical systems, applied to a wide range of problems including navigation, positioning, mapping, object detection, or semantic segmentation, among others. Nevertheless, I am also keen to explore diverse interdisciplinary applications that intersect with my primary research interests, including (but not limited to) disaster prevention and management, environmental monitoring, assistive technology, health science, and smart cities.
 
+I am always open to collaborations with individuals from academia or industry and am actively seeking PhD students. Feel free to contact me via email!
+
 Recent News
 ======
 * December 2024. 1 paper is accepted to RSE (IF=11.1). See [here](https://www.sciencedirect.com/science/article/pii/S0034425724006102).
