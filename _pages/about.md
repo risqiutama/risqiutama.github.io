@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in Data Science at [Monash University, Indonesia](https://www.monash.edu/indonesia). Previously, I was a Research Associate in the Department of Computer Science, University of Oxford, UK. I also did my DPhil (PhD) in Computer Science at the University of Oxford. Before coming to Oxford, I obtained bachelor and master degree (M.Eng) from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia. In the past, I co-founded [LexiPal Indonesia](http://lexipalindonesia.com) and worked as a Senior (Lead) Data Scientist at Jakarta Smart City.
+I am an Associate Professor in Data Science and AI at [Monash University, Indonesia](https://www.monash.edu/indonesia). Previously, I was a Research Associate in the Department of Computer Science, University of Oxford, UK. I also did my DPhil (PhD) in Computer Science at the University of Oxford. Before coming to Oxford, I obtained bachelor and master degree (M.Eng) from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia. In the past, I co-founded [LexiPal Indonesia](http://lexipalindonesia.com) and worked as a Senior (Lead) Data Scientist at Jakarta Smart City.
 
 Research Interest
 ======
