@@ -16,7 +16,7 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 ----
 - <b>[Multi-modal deep learning approaches to semantic segmentation of mining footprints with multispectral satellite imagery](https://www.sciencedirect.com/science/article/pii/S0034425724006102) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, I. Bhaswara, B. Nasution, M. Ang, N. Husna, T. Witra, V. Feliren, J. Owen, D. Kemp, and A. Lechner <br>
-<i> IEEE Geoscience and Remote Sensing Letters (GSRL), 22, 2024. </i> <font color="#FF7F00">[Q1, IF=11.1]</font>
+<i> Remote Sensing of Environment (RSE), Vol. 318, 2025. </i> <font color="#FF7F00">[Q1, IF=11.1]</font>
 
 
 2024
