@@ -12,10 +12,15 @@ I am an Associate Professor in Data Science at [Monash University, Indonesia](ht
 
 Research Interest
 ======
-My main research interest revolves around the intersection between machine (deep) learning, computer vision, and cyber-physical systems, applied to a wide range of problems including navigation, positioning, mapping, object detection, or semantic segmentation, among others. Nevertheless, I am also keen to work in diverse interdisciplinary areas including, but not limited to, disaster prevention and management, environmental monitoring, health science, assistive technology, smart cities, intersecting with my main research interest.
+My main research interest revolves around the intersection between machine (deep) learning, computer vision, and cyber-physical systems, applied to a wide range of problems including navigation, positioning, mapping, object detection, or semantic segmentation, among others. Nevertheless, I am also keen to work in diverse interdisciplinary areas including, but not limited to, disaster prevention and management, environmental monitoring, assistive technology, health science, smart cities, intersecting with my main research interest. 
 
 Recent News
 ======
+* December 2024. 1 paper is accepted to RSE (IF=11.1). See [here](https://www.sciencedirect.com/science/article/pii/S0034425724006102).
+* October 2024. [ProCANet](https://ieeexplore.ieee.org/abstract/document/10750225) is accepted to IEEE GSRL.
+* August 2024. Promoted to Associate Professor at MI!
+* June 2024. I will serve as Senior Program Committee for AAAI 2025.
+* March 2024. 1 paper is accepted to CHI.
 * June 2023. 1 paper is accepted to IROS.
 * January 2023. I will be the Senior Program Committee for AAAI 2023 and 2024.
 * October 2022. [Funding from Meta (Facebook) Research](https://research.facebook.com/blog/2022/9/announcing-the-winners-of-the-2022-meta-arvr-policy-research-request-for-proposals-for-the-asia-pacific-region/) is secured as co-PI!
@@ -25,6 +30,3 @@ Recent News
 * March 2022. [Self-VIO](https://www.sciencedirect.com/science/article/pii/S0893608022000752) is accepted to Neural Networks.
 * October 2021. Our [TI-SLAM](https://arxiv.org/abs/2104.07196) got accepted to IEEE Transactions on Robotics!
 * August 2021. I am joining Monash University, Indonesia as Assistant Professor in Data Science!
-* May 2021. Received "Outstanding Reviewers" awards at CVPR 2021.
-* April 2021. 1 paper is accepted to SECON 2021.
-* December 2020. 1 paper is accepted to AAAI 2021!
