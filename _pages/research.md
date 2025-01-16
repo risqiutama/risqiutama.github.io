@@ -9,19 +9,19 @@ My primary research interests lie at the intersection of machine (deep) learning
 
 Within these research areas, my work can be broadly categorized into two main domains: 1) fundamental AI and data science, and 2) interdisciplinary applications.
 
-<font size="4" color="blue"><b>Fundamental AI and Data Science</b></font>:
-- **Deep Learning for Computer Vision**: Developing advanced deep learning techniques for applications like object detection and segmentation.
-- Innovative Learning Strategies: Exploring methods such as incremental/continual learning, multi-task learning, few-shot learning, domain adaptation, and curriculum learning to enhance AI model performance.
-- Model Compression: Investigating approaches like knowledge distillation and quantization to improve model efficiency for edge computing applications.
-- Simultaneous Localization and Mapping (SLAM) and Odometry Estimation: Advancing navigation and mapping technologies using embedded, multi-modal, sensor data in GPS-denied environment.
-- Distributed and Federated Learning: Building collaborative learning systems across decentralized data sources.
-- Application of Foundational Models: Leveraging vision-based, vision-language, and geospatial foundational models for specialized downstream tasks.
+<font size="4" color="blue"><b>Fundamental AI and Data Science:</b></font>
+- **Deep Learning for Computer Vision**: Developing advanced deep learning techniques for applications like object detection and segmentation. Example papers: 
+- **Innovative AI Learning Strategies**: Exploring methods to enhance AI model performance in challenging scenarios such as with incremental/continual learning, multi-task learning, few-shot learning, domain adaptation, curriculum learning, etc. Example papers: 
+- **Model Compression**: Investigating approaches like knowledge distillation and quantization to improve model efficiency for edge computing applications (e.g., IoT, robots). Example papers: 
+- **Simultaneous Localization and Mapping (SLAM) and Odometry Estimation**: Advancing navigation and mapping technologies using embedded, multi-modal, sensor data in GPS-denied environment. Example papers: 
+- **Distributed and Federated Learning**: Building collaborative deep learning systems across decentralized data sources. Example papers: 
+- **Application of Foundational Models**: Leveraging vision-based, vision-language, and geospatial foundational models for specialized downstream tasks.
 
-<font size="4" color="blue"><b>Interdisciplinary Applications</b></font>:
-- <b>Disaster Management and Mitigation</b>: Developing AI-driven solutions for earthquake and flood detection, impact assessment, emergency response tools, among others.
-- Environmental Monitoring: Assessing environmental impacts, such as the footprints of mining activities, using remote sensing, GIS, and other applications.
-- Assistive Technology: Designing tools for navigation assistance and scene understanding for visually impaired individuals, and others.
-- Health Science and Smart Cities: Exploring AI applications to improve public health and urban living standards.
+<font size="4" color="blue"><b>Interdisciplinary Applications:</b></font>
+- **Disaster Management and Mitigation**: Developing AI-driven solutions for earthquake and flood detection, impact assessment, emergency response tools, among others. Example papers: 
+- **Environmental Monitoring**: Assessing environmental impacts, such as the footprints of mining activities, using deep learning-based remote sensing, GIS, and other applications. Example papers: 
+- **Assistive Technology**: Designing AI tools for navigation assistance and scene understanding for visually impaired individuals, and others. Example papers: 
+- **Health Science and Smart Cities**: Exploring AI applications to improve public health and urban living standards. 
 
 -----
 
