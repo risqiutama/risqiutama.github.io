@@ -9,6 +9,8 @@ My main research interest revolves around the intersection between machine (deep
 
 In the past, I contributed to Oxford's [NIST-IPSER](https://www.cs.ox.ac.uk/projects/LBSemergresp/) and [ACE-OPS](https://www.cs.ox.ac.uk/projects/ACE-OPS/).
 
+Please see [Monash Research Page](https://research.monash.edu/en/persons/risqi-saputra) for complete list of the projects.
+
 -----
 
 <font size="5" color="red"><b>Current Research Projects</b></font>
@@ -25,7 +27,7 @@ The aim of the project is to perform remote sensing, geo-spatial and socio-envir
 
 -----
 
-<font size="5" color="red"><b>Completed Research Projects</b></font>
+<font size="5" color="gray"><b>Completed Research Projects</b></font>
 
 -----
 
@@ -49,6 +51,8 @@ The project aims to help a fintech institution improve its risk assessment of in
 
 **Jobs**: [Multiple positions available for Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_fintech_2022) (Application closed)
 
+**Publications**: In preparation.
+
 -----
 
 <font size="4" color="green"><b>Regulating Sexual VAWs in Metaverse: An Interdisciplinary Diagnosis</b></font>
@@ -58,3 +62,5 @@ The aim of the project is to legitimise the regulation of sexual violence agains
 **Funding**: Meta/Facebook (Co-PI), PI is from Monash Malaysia
 
 **Jobs**: [Multiple positions available for Research Assistant!](https://risqiutama.github.io/publication/opening_ra_meta_2023)
+
+**Publications**: In preparation.
