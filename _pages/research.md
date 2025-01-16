@@ -10,18 +10,20 @@ My primary research interests lie at the intersection of machine (deep) learning
 Within these research areas, my work can be broadly categorized into two main domains: 1) fundamental AI and data science, and 2) interdisciplinary applications.
 
 <font size="4" color="blue"><b>Fundamental AI and Data Science:</b></font>
-- **Deep Learning for Computer Vision**: Developing advanced deep learning techniques for applications like object detection and segmentation. Example papers: 
-- **Innovative AI Learning Strategies**: Exploring methods to enhance AI model performance in challenging scenarios such as with incremental/continual learning, multi-task learning, few-shot learning, domain adaptation, curriculum learning, etc. Example papers: 
-- **Model Compression**: Investigating approaches like knowledge distillation and quantization to improve model efficiency for edge computing applications (e.g., IoT, robots). Example papers: 
-- **Simultaneous Localization and Mapping (SLAM) and Odometry Estimation**: Advancing navigation and mapping technologies using embedded, multi-modal, sensor data in GPS-denied environment. Example papers: 
-- **Distributed and Federated Learning**: Building collaborative deep learning systems across decentralized data sources. Example papers: 
-- **Application of Foundational Models**: Leveraging vision-based, vision-language, and geospatial foundational models for specialized downstream tasks.
+- **Deep Learning for Computer Vision**: Developing advanced deep learning techniques for applications like object detection and segmentation. Example papers: [RSE 2025](https://www.sciencedirect.com/science/article/pii/S0034425724006102)
+- **Innovative AI Learning Strategies**: Exploring methods to enhance AI model performance in challenging scenarios such as with incremental/continual learning, self-supervised learning, multi-task learning, few-shot learning, domain adaptation, curriculum learning, etc. Example papers: [ICRA 2019](https://arxiv.org/pdf/1903.10543), [NN 2022](https://www.sciencedirect.com/science/article/pii/S0893608022000752)
+- **Model Compression**: Investigating approaches like knowledge distillation and quantization to improve model efficiency for edge computing applications (e.g., IoT, robots). Example papers: [ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Saputra_Distilling_Knowledge_From_a_Deep_Pose_Regressor_Network_ICCV_2019_paper.pdf)
+- **Simultaneous Localization and Mapping (SLAM) and Odometry Estimation**: Advancing navigation and mapping technologies using embedded, multi-modal sensor data in GPS-denied environment. Example papers: [RAL 2020](https://www.cs.ox.ac.uk/files/11551/RAL2020_DeepTIO.pdf), [SenSys 2020](https://arxiv.org/pdf/2006.02266), [TRO 2021](https://arxiv.org/pdf/2104.07196)
+- **Distributed and Federated Learning**: Building collaborative deep learning systems across decentralized data sources. Example papers: [SECON 2021](https://ieeexplore.ieee.org/abstract/document/9491600)
+- **Application of Foundational Models**: Leveraging vision-based, vision-language, or geospatial foundational models for specialized downstream tasks.
 
 <font size="4" color="blue"><b>Interdisciplinary Applications:</b></font>
-- **Disaster Management and Mitigation**: Developing AI-driven solutions for earthquake and flood detection, impact assessment, emergency response tools, among others. Example papers: 
-- **Environmental Monitoring**: Assessing environmental impacts, such as the footprints of mining activities, using deep learning-based remote sensing, GIS, and other applications. Example papers: 
-- **Assistive Technology**: Designing AI tools for navigation assistance and scene understanding for visually impaired individuals, and others. Example papers: 
+- **Disaster Management and Mitigation**: Developing AI-driven solutions for earthquake and flood detection, impact assessment, emergency response tools, among others. Example papers: [GSRL 2024](https://ieeexplore.ieee.org/abstract/document/10750225), [CPS-ER 2022](https://ieeexplore.ieee.org/abstract/document/9805378)
+- **Environmental Monitoring**: Assessing environmental impacts, such as the footprints of mining activities, using deep learning-based remote sensing, GIS, and other applications. Example papers: [RSE 2025](https://www.sciencedirect.com/science/article/pii/S0034425724006102), [JEM 2024](https://www.sciencedirect.com/science/article/pii/S0301479723024799)
+- **Assistive Technology**: Designing AI tools for navigation assistance and scene understanding (using VLM) for visually impaired individuals, and others. Example papers: [UIC 2014](https://ieeexplore.ieee.org/abstract/document/7306971)  
 - **Health Science and Smart Cities**: Exploring AI applications to improve public health and urban living standards. 
+
+Please refer to [publication page](https://risqiutama.github.io/publications/) for more examples of papers.
 
 -----
 
