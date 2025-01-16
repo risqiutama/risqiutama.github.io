@@ -63,6 +63,6 @@ The aim of the project is to legitimise the regulation of sexual violence agains
 
 **Funding**: Meta/Facebook (Co-PI), PI is from Monash Malaysia
 
-**Jobs**: [Multiple positions available for Research Assistant!](https://risqiutama.github.io/publication/opening_ra_meta_2023)
+**Jobs**: [Multiple positions available for Research Assistant!](https://risqiutama.github.io/publication/opening_ra_meta_2023) (Application closed)
 
 **Publications**: In preparation.
