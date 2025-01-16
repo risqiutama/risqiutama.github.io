@@ -12,7 +12,7 @@ author_profile: true
 **Reviewers**
 
 * Selected Senior Program Committee / Area Chair
-  * AAAI (2023, 2024, 2025) - Handling up to 20 papers 
+  * AAAI (2023, 2024, 2025) - Handling up to 20 papers. AAAI 2025 received a total of 12,957 paper submissions. 
 * Selected Program Committee / Conference Reviewer
   * IEEE/RSJ IROS (2020 ~ 2025)
   * AAAI (2022)
