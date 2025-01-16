@@ -37,7 +37,7 @@ The aim of the project is to perform remote sensing, geo-spatial and socio-envir
 
 This research seeks to develop an intelligent remote sensing system that can segment and map the temporal dynamics of flooding on a daily basis using AI-based remote sensing approaches to help assess flood impacts and design more sustainable flood management policies. Our study is situated in Indonesia’s upper Citarum river basin where land use change has led to the occurrence of annual flooding events.
 
-**Funding**: Monash Indonesia Seed Innovation Grant (PI)
+**Funding**: Monash Indonesia Seed Innovation Grant (PI) & MDFI
 
 **Jobs**: [Multiple positions available for Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_citarum_2022) (Application closed)
 
