@@ -5,27 +5,26 @@ permalink: /services/
 author_profile: true
 ---
 
-* (Senior) Program Committee / Conference Reviewer
-  * 2024: AAAI (20)
-  * 2023: IEEE/RSJ IROS (3), PRICAI (3), AAAI (15)
-  * 2022: IEEE/RSJ IROS (7), ICUAS (1), AAAI (10)
-  * 2021: AAAI (5), IEEE/CVF CVPR (4), IEEE/CVF ICCV (7), IEEE ICRA (2), IEEE/RSJ IROS (1), IEEE SSCI (5)
-  * 2020: IEEE ICRA (2), IEEE IROS (1), ICITEE (1)
-  * 2019: IEEE ICRA (1)
-  * 2018: ICITEE (3)
-* Journal Reviewer
-  * IEEE Transactions on Robotics (1)
-  * IEEE Transactions on Cognitive and Developmental Systems (1)
-  * IEEE Transactions on Cybernetics (1)
-  * IEEE Transactions on Automation Science and Engineering (1)
-  * IEEE Robotics and Automation Letters (10)
-  * ACM Computing Surveys (2)
-  * ACM Transactions on Internet of Things (1)
-  * Elsevier Future Generation Computer Systems (1)
-  * Elsevier Neurocomputing (1)
-  * Springer Journal of Intelligent & Robotic Systems (1)
-  * Nature Springer - Machine Vision and Applications (1)
-  * MDPI Micromachines (1)
-  * MDPI Sensors (1)
+* Selected Senior Program Committee / Area Chair
+  * AAAI (2023, 2024, 2025) - Handling up to 20 papers 
+* Selected Program Committee / Conference Reviewer
+  * IEEE/RSJ IROS (2020 ~ 2025)
+  * AAAI (2022)
+  * IEEE/CVF CVPR (2021) - Received *outstanding reviewers award*
+  * IEEE/CVF ICCV (2021)
+  * IEEE ICRA (2019 ~ 2021)
+* Selected Journal Reviewer
+  * IEEE Transactions on Robotics
+  * IEEE Transactions on Cognitive and Developmental Systems
+  * IEEE Transactions on Cybernetics
+  * IEEE Transactions on Automation Science and Engineering
+  * IEEE Robotics and Automation Letters
+  * ACM Computing Surveys
+  * ACM Transactions on Internet of Things
+  * Elsevier Future Generation Computer Systems
+  * Elsevier Neurocomputing
+  * Springer Journal of Intelligent & Robotic Systems
+  * Nature Springer - Machine Vision and Applications
+  * Etc.
 * Research Grant Reviewer
   * External Reviewer for National Science Centre (NSC), Poland
