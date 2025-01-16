@@ -5,15 +5,29 @@ permalink: /research/
 author_profile: true
 ---
 
-My main research interest revolves around the intersection between machine (deep) learning, computer vision, and cyber-physical systems, applied to a wide range of problems including navigation, positioning, mapping, object detection, or semantic segmentation, among others. Nevertheless, I am also keen to work in diverse interdisciplinary areas including, but not limited to, disaster prevention and management, environmental monitoring, health science, assistive technology, smart cities, intersecting with my main research interest.
+My primary research interests lie at the intersection of machine (deep) learning, computer vision, and cyber-physical systems, with applications spanning navigation, positioning, mapping, object detection, and semantic segmentation, among other areas. Additionally, I am also interested in interdisciplinary research that integrates these core domains with diverse fields such as disaster prevention and management, environmental monitoring, health sciences, assistive technologies, and smart cities. These interdisciplinary efforts aim to address real-world challenges while leveraging advances in AI and data science.
 
-In the past, I contributed to Oxford's [NIST-IPSER](https://www.cs.ox.ac.uk/projects/LBSemergresp/) and [ACE-OPS](https://www.cs.ox.ac.uk/projects/ACE-OPS/).
+Within these research areas, my work can be broadly categorized into two main domains: 1) fundamental AI and data science, and 2) interdisciplinary applications.
 
-Please see [Monash Research Page](https://research.monash.edu/en/persons/risqi-saputra) for complete list of the projects.
+<b>Fundamental AI and Data Science</b>:
+- Deep Learning for Computer Vision: Developing advanced deep learning techniques for applications like object detection and segmentation.
+- Innovative Learning Strategies: Exploring methods such as incremental/continual learning, multi-task learning, few-shot learning, domain adaptation, and curriculum learning to enhance AI model performance.
+- Model Compression: Investigating approaches like knowledge distillation and quantization to improve model efficiency for edge computing applications.
+- Simultaneous Localization and Mapping (SLAM) and Odometry Estimation: Advancing navigation and mapping technologies using embedded, multi-modal, sensor data in GPS-denied environment.
+- Distributed and Federated Learning: Building collaborative learning systems across decentralized data sources.
+- Application of Foundational Models: Leveraging vision-based, vision-language, and geospatial foundational models for specialized downstream tasks.
+
+<b>Interdisciplinary Applications</b>:
+- Disaster Management and Mitigation: Developing AI-driven solutions for earthquake and flood detection, impact assessment, emergency response tools, among others.
+- Environmental Monitoring: Assessing environmental impacts, such as the footprints of mining activities, using remote sensing, GIS, and other applications.
+- Assistive Technology: Designing tools for navigation assistance and scene understanding for visually impaired individuals, and others.
+- Health Science and Smart Cities: Exploring AI applications to improve public health and urban living standards.
 
 -----
 
 <font size="5" color="red"><b>Current Research Projects</b></font>
+
+Please see [Monash Research Page](https://research.monash.edu/en/persons/risqi-saputra) for complete list of the projects. In the past, I contributed to Oxford's [NIST-IPSER](https://www.cs.ox.ac.uk/projects/LBSemergresp/) and [ACE-OPS](https://www.cs.ox.ac.uk/projects/ACE-OPS/).
 
 -----
 
@@ -27,7 +41,6 @@ The aim of the project is to perform remote sensing, geo-spatial and socio-envir
 
 **Publications**: [RSE 2025](https://www.sciencedirect.com/science/article/pii/S0034425724006102) [Q1, IF=11.1], [JEM 2024](https://www.sciencedirect.com/science/article/pii/S0301479723024799) [Q1, IF=8], [JED 2023](https://journals.sagepub.com/doi/pdf/10.1177/10704965231190126) [Q1, IF=2.3]
 
------
 
 <font size="5" color="blue"><b>Completed Research Projects</b></font>
 
