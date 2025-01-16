@@ -9,7 +9,7 @@ My primary research interests lie at the intersection of machine (deep) learning
 
 Within these research areas, my work can be broadly categorized into two main domains: 1) fundamental AI and data science, and 2) interdisciplinary applications.
 
-<font size="4" color="blue"><b>Fundamental AI and Data Science:</b></font>
+<font size="4" color="purple"><b>Fundamental AI and Data Science:</b></font>
 - **Deep Learning for Computer Vision**: Developing advanced deep learning techniques for applications like object detection and segmentation. Example papers: [RSE 2025](https://www.sciencedirect.com/science/article/pii/S0034425724006102)
 - **Innovative AI Learning Strategies**: Exploring methods to enhance AI model performance in challenging scenarios such as with incremental/continual learning, self-supervised learning, multi-task learning, few-shot learning, domain adaptation, curriculum learning, etc. Example papers: [ICRA 2019](https://arxiv.org/pdf/1903.10543), [NN 2022](https://www.sciencedirect.com/science/article/pii/S0893608022000752)
 - **Model Compression**: Investigating approaches like knowledge distillation and quantization to improve model efficiency for edge computing applications (e.g., IoT, robots). Example papers: [ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Saputra_Distilling_Knowledge_From_a_Deep_Pose_Regressor_Network_ICCV_2019_paper.pdf)
@@ -17,7 +17,7 @@ Within these research areas, my work can be broadly categorized into two main do
 - **Distributed and Federated Learning**: Building collaborative deep learning systems across decentralized data sources. Example papers: [SECON 2021](https://ieeexplore.ieee.org/abstract/document/9491600)
 - **Application of Foundational Models**: Leveraging vision-based, vision-language, or geospatial foundational models for specialized downstream tasks.
 
-<font size="4" color="blue"><b>Interdisciplinary Applications:</b></font>
+<font size="4" color="purple"><b>Interdisciplinary Applications:</b></font>
 - **Disaster Management and Mitigation**: Developing AI-driven solutions for earthquake and flood detection, impact assessment, emergency response tools, among others. Example papers: [GSRL 2024](https://ieeexplore.ieee.org/abstract/document/10750225), [CPS-ER 2022](https://ieeexplore.ieee.org/abstract/document/9805378)
 - **Environmental Monitoring**: Assessing environmental impacts, such as the footprints of mining activities, using deep learning-based remote sensing, GIS, and other applications. Example papers: [RSE 2025](https://www.sciencedirect.com/science/article/pii/S0034425724006102), [JEM 2024](https://www.sciencedirect.com/science/article/pii/S0301479723024799)
 - **Assistive Technology**: Designing AI tools for navigation assistance and scene understanding (using VLM) for visually impaired individuals, and others. Example papers: [UIC 2014](https://ieeexplore.ieee.org/abstract/document/7306971)  
@@ -43,6 +43,7 @@ The aim of the project is to perform remote sensing, geo-spatial and socio-envir
 
 **Publications**: [RSE 2025](https://www.sciencedirect.com/science/article/pii/S0034425724006102) [Q1, IF=11.1], [JEM 2024](https://www.sciencedirect.com/science/article/pii/S0301479723024799) [Q1, IF=8], [JED 2023](https://journals.sagepub.com/doi/pdf/10.1177/10704965231190126) [Q1, IF=2.3]
 
+-----
 
 <font size="5" color="blue"><b>Completed Research Projects</b></font>
 
