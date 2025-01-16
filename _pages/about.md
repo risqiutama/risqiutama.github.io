@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in Data Science and AI at [Monash University, Indonesia](https://www.monash.edu/indonesia). Previously, I was a Postdoctoral Research Associate in the [Systems Research Group](https://www.cs.ox.ac.uk/research/cyberphysical/) within the Department of Computer Science at the University of Oxford, UK, where I also completed my DPhil (PhD). Before coming to Oxford, I obtained bachelor and master degree (M.Eng) from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia. In the past, I co-founded [LexiPal Indonesia](http://lexipalindonesia.com) and worked as a Senior (Lead) Data Scientist at Jakarta Smart City.
+I am an Associate Professor in Data Science and AI at [Monash University, Indonesia](https://www.monash.edu/indonesia). Previously, I was a Postdoctoral Research Associate in the [Systems Research Group](https://www.cs.ox.ac.uk/research/cyberphysical/) within the Department of Computer Science at the University of Oxford, UK, where I also completed my DPhil (PhD). Before coming to Oxford, I obtained bachelor and master degree (M.Eng) from the Department of Electrical Engineering and Information Technology, Universitas Gadjah Mada, Indonesia. In the past, I co-founded [LexiPal Indonesia](http://lexipalindonesia.com) and served as a Senior (Lead) Data Scientist at Jakarta Smart City.
 
 Research Interest
 ======
