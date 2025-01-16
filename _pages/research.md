@@ -25,9 +25,11 @@ The aim of the project is to perform remote sensing, geo-spatial and socio-envir
 
 **Jobs**: [Multiple positions available for Post-Doc/Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_mining_2022) (Application closed)
 
+**Publications**: [RSE 2025](https://www.sciencedirect.com/science/article/pii/S0034425724006102) [Q1, IF=11.1], [JEM 2024](https://www.sciencedirect.com/science/article/pii/S0301479723024799) [Q1, IF=8], [JED 2023](https://journals.sagepub.com/doi/pdf/10.1177/10704965231190126) [Q1, IF=2.3]
+
 -----
 
-<font size="5" color="gray"><b>Completed Research Projects</b></font>
+<font size="5" color="blue"><b>Completed Research Projects</b></font>
 
 -----
 
@@ -39,7 +41,7 @@ This research seeks to develop an intelligent remote sensing system that can seg
 
 **Jobs**: [Multiple positions available for Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_citarum_2022) (Application closed)
 
-**Publications**: [IEEE GSRL](https://ieeexplore.ieee.org/abstract/document/10750225) [Q1, IF=4], AQUA (In-press) [Q2, IF=2.1]
+**Publications**: [IEEE GSRL 2024](https://ieeexplore.ieee.org/abstract/document/10750225) [Q1, IF=4], AQUA (In-press) [Q2, IF=2.1]
 
 -----
 
