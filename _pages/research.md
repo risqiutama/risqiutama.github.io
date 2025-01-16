@@ -11,7 +11,7 @@ In the past, I contributed to Oxford's [NIST-IPSER](https://www.cs.ox.ac.uk/proj
 
 -----
 
-<font size="5" color="red"><b>Current Research Project</b></font>
+<font size="5" color="red"><b>Current Research Projects</b></font>
 
 -----
 
@@ -25,13 +25,19 @@ The aim of the project is to perform remote sensing, geo-spatial and socio-envir
 
 -----
 
+<font size="5" color="red"><b>Completed Research Projects</b></font>
+
+-----
+
 <font size="4" color="green"><b>Intelligent Remote Sensing for Sustainable Flood Risk Management and Policy</b></font>
 
 This research seeks to develop an intelligent remote sensing system that can segment and map the temporal dynamics of flooding on a daily basis using AI-based remote sensing approaches to help assess flood impacts and design more sustainable flood management policies. Our study is situated in Indonesia’s upper Citarum river basin where land use change has led to the occurrence of annual flooding events.
 
-**Funding**: Monash Indonesia Seed Innovation Grant (PI) and MDFI
+**Funding**: Monash Indonesia Seed Innovation Grant (PI)
 
 **Jobs**: [Multiple positions available for Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_citarum_2022) (Application closed)
+
+**Publications**: [IEEE GSRL](https://ieeexplore.ieee.org/abstract/document/10750225) [Q1, IF=4], AQUA (In-press) [Q2, IF=2.1]
 
 -----
 
