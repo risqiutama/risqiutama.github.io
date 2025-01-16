@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 
-**Research Interest**
+**Internal Service**
 
 * Program/Course Coordinator, Master of Data Science, Monash University, Indonesia (2022 ~ 2023)
   
