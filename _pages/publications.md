@@ -33,7 +33,7 @@ _PS: The journal rank (Q4-Q1) and the conference rank (C-A*) presented below are
 
 - <b>[Increasing mine waste will induce land cover change that results in ecological degradation and human displacement](https://www.sciencedirect.com/science/article/pii/S0301479723024799) </b> 
 <br>  J. Owen, D. Kemp, A. Lechner, M. Ang, E. Lebre, G. Mudd, M. Macklin, <b>Muhamad Risqi U. Saputra</b>, T. Witra, and A. Bebbington <br>
-<i> Journal of Environmental Management, 351, 2024. </i> <font color="#FF7F00">[Q1, IF=8]</font>
+<i> Journal of Environmental Management (**JEM**), 351, 2024. </i> <font color="#FF7F00">[Q1, IF=8]</font>
 
 
 2023
@@ -44,7 +44,7 @@ _PS: The journal rank (Q4-Q1) and the conference rank (C-A*) presented below are
 
 - <b>[Systematic review of GIS and remote sensing applications for assessing the socioeconomic impacts of mining](https://journals.sagepub.com/doi/full/10.1177/10704965231190126) </b> 
 <br>  M. Ang, J. Owen, C. Gibbins, E. Lebre, D. Kemp, <b>Muhamad Risqi U. Saputra</b>, J. Everingham, and A. Lechner <br>
-<i> The Journal of Environment and Development, 32 (3), 2023. </i> <font color="#FF7F00">[Q1, IF=2.3]</font>
+<i> The Journal of Environment and Development (**JED**), 32 (3), 2023. </i> <font color="#FF7F00">[Q1, IF=2.3]</font>
 
 
 2022
