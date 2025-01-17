@@ -25,7 +25,7 @@ _PS: The journal rank (Q4-Q1) and the conference rank (C-A*) presented below are
 ----
 - <b>[Progressive Cross-Attention Network for Flood Segmentation Using Multispectral Satellite Imagery](https://ieeexplore.ieee.org/abstract/document/10750225) </b> 
 <br>  V. Feliren, F. Khikmah, I. Bhaswara, B. Nasution, A. Lechner, and <b>Muhamad Risqi U. Saputra*</b> <br>
-<i> IEEE Geoscience and Remote Sensing Letters (<b>GSRL</b>), 22, 2024. </i> <font color="#FF7F00">[Q1, IF=4]</font>
+<i> IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>), 22, 2024. </i> <font color="#FF7F00">[Q1, IF=4]</font>
 
 - <b>[Recordkeeping in Voice-based Remote Community Engagement](https://dl.acm.org/doi/full/10.1145/3613904.3642779) </b> 
 <br>  M. Islam, D. Richardson, M. Saha, D. Varghese, T. Bartindale, P. Saha, <b>Muhamad Risqi U. Saputra</b>, and P. Olivier<br>
