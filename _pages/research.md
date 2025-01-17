@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My primary research interests lie at the intersection of machine (deep) learning, computer vision, and cyber-physical systems, with applications spanning navigation, positioning, mapping, object detection, and semantic segmentation, among other areas. Additionally, I am also interested in interdisciplinary research that integrates these core domains with diverse fields such as disaster prevention and management, environmental monitoring, health sciences, assistive technologies, and smart cities. These interdisciplinary efforts aim to address real-world challenges while leveraging advances in AI and data science.
+My primary research interests lie at the intersection of machine (deep) learning, computer vision, and cyber-physical systems, with applications spanning navigation, positioning, mapping, object detection, and semantic segmentation, among other areas. Additionally, I am also interested in interdisciplinary research that integrates these core domains with diverse fields such as disaster response and prevention, environmental monitoring, health sciences, assistive technologies, and smart cities. These interdisciplinary efforts aim to address real-world challenges while leveraging advances in AI and data science.
 
 Within these research areas, my work can be broadly categorized into two main domains: 1) fundamental AI and data science, and 2) interdisciplinary applications. In many cases, the focus is on developing AI and data science techniques to address interdisciplinary challenges.
 
@@ -18,7 +18,7 @@ Within these research areas, my work can be broadly categorized into two main do
 - **Application of Foundational Models**: Leveraging vision-based, vision-language, or geospatial foundational models for specialized downstream tasks.
 
 <font size="4" color="purple"><b>Interdisciplinary Applications:</b></font>
-- **Disaster Management and Mitigation**: Developing AI-driven solutions for earthquake and flood detection, impact assessment, emergency response tools, among others. Example papers: [GSRL 2024](https://ieeexplore.ieee.org/abstract/document/10750225), [CPS-ER 2022](https://ieeexplore.ieee.org/abstract/document/9805378)
+- **Disaster Response and Prevention**: Developing AI-driven solutions for earthquake and flood detection, impact assessment, emergency response tools, among others. Example papers: [GSRL 2024](https://ieeexplore.ieee.org/abstract/document/10750225), [CPS-ER 2022](https://ieeexplore.ieee.org/abstract/document/9805378)
 - **Environmental Monitoring**: Assessing environmental impacts, such as the footprints of mining activities, using deep learning-based remote sensing, GIS, and other applications. Example papers: [RSE 2025](https://www.sciencedirect.com/science/article/pii/S0034425724006102), [JEM 2024](https://www.sciencedirect.com/science/article/pii/S0301479723024799)
 - **Assistive Technology**: Designing AI tools for navigation assistance and scene understanding (using VLM) for visually impaired individuals, and others. Example papers: [UIC 2014](https://ieeexplore.ieee.org/abstract/document/7306971)  
 - **Health Science and Smart Cities**: Exploring AI applications to improve public health and urban living standards. 
