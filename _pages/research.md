@@ -29,7 +29,7 @@ Please refer to [publication page](https://risqiutama.github.io/publications/) f
 
 <font size="5" color="red"><b>Current Research Projects</b></font>
 
-Please see [Monash Research Page](https://research.monash.edu/en/persons/risqi-saputra) for complete list of the projects. In the past, I contributed to Oxford's [NIST-IPSER](https://www.cs.ox.ac.uk/projects/LBSemergresp/) and [ACE-OPS](https://www.cs.ox.ac.uk/projects/ACE-OPS/).
+Please see [Monash Research Page](https://research.monash.edu/en/persons/risqi-saputra) for complete list of the projects. In the past, I also contributed to Oxford's [NIST-IPSER](https://www.cs.ox.ac.uk/projects/LBSemergresp/) and [ACE-OPS](https://www.cs.ox.ac.uk/projects/ACE-OPS/).
 
 -----
 
