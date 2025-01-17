@@ -12,11 +12,12 @@ I lead a research group on **Machine Intelligence and Vision** and co-lead the [
 - Risty Khoirunisa (associate). 2024 ~ now. 
 - Adnan Islam (associate). 2022 ~ now. 
 
-**Master Students (MDS)**
+**Master Students**
 - Khoirunnisa Fatimah (main). 2024 ~ now.
 - Rigad Irhasyi (main). 2024 ~ now.
 - Surviantoro Yudanardi (main). 2024 ~ now.
 - Tri Ubaya (main). 2024 ~ now.
+- Maulidi Adi Prasetia (associate w/ EEIT UGM). 2024 ~ now.
 
 **Research Assistants (RA)**
 - Alif Ilham Madani (main). 2023 ~ now.
@@ -25,7 +26,9 @@ I lead a research group on **Machine Intelligence and Vision** and co-lead the [
 **Past Members**
 - Ni Made Sunarti (main). MDS 2022 ~ 2024. Now: SVP CIMB Niaga.
 - Vicky Feliren (main). RA 2023 ~ 2024. Now: Research Scientist at eFishery and MDS student at MI.
+- Nur Laily Romadhotul Husna (associate). RA 2022 ~ 2024. Now: Data Analyst at JSC.
 - Muhamad Fahriza Novriansyah (main). RA 2023 ~ 2024. Now: Senior Analyst at Accenture.
+- Gabriella Christin (main). Intern 2023 ~ 2024. Now: Product Manager at Sprout Digital Labs.
 - Irfan Dwiki Bhaswara (main). RA 2022 ~ 2023. Now: PhD Student at UNSW, Australia.
 - Bahrul Ilmi Nasution (main). RA 2022 ~ 2023. Now: PhD Student at the University of Manchester, UK.
 - Tahjudil Witra (associate). RA 2022 ~ 2023. Now: Geospatial Data Scientist at biometrio.earth, Germany.
