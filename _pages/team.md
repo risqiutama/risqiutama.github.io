@@ -33,3 +33,9 @@ I lead a research group on **Machine Intelligence and Vision** and co-lead the [
 - Bahrul Ilmi Nasution (main). RA 2022 ~ 2023. Now: PhD Student at the University of Manchester, UK.
 - Tahjudil Witra (associate). RA 2022 ~ 2023. Now: Geospatial Data Scientist at biometrio.earth, Germany.
 - Michelle Li Ern Ang (associate). RA 2022 ~ 2023. Now: PhD Student at the University of Queensland, Australia.
+
+-----
+
+PS:
+**Main**: I serve as the primary supervisor.
+**Associate**: I act as an associate supervisor.
