@@ -19,7 +19,7 @@ Within these research areas, my work can be broadly categorized into two main do
 - **Application of Foundational Models**: Leveraging vision-based, vision-language, or geospatial foundational models for specialized downstream tasks.
 
 <font size="4" color="purple"><b>Interdisciplinary Applications:</b></font>
-- **Disaster Response and Prevention**: Developing AI-driven solutions for earthquake and flood detection, impact assessment, emergency response tools, among others. Example papers: [GSRL 2024](https://ieeexplore.ieee.org/abstract/document/10750225), [CPS-ER 2022](https://ieeexplore.ieee.org/abstract/document/9805378)
+- **Disaster Response and Prevention**: Developing AI-driven solutions for earthquake and flood detection, impact assessment, emergency response tools, among others. Example papers: [GRSL 2024](https://ieeexplore.ieee.org/abstract/document/10750225), [CPS-ER 2022](https://ieeexplore.ieee.org/abstract/document/9805378)
 - **Environmental Monitoring**: Assessing environmental impacts, such as the footprints of mining activities, using deep learning-based remote sensing, GIS, and other applications. Example papers: [RSE 2025](https://www.sciencedirect.com/science/article/pii/S0034425724006102), [JEM 2024](https://www.sciencedirect.com/science/article/pii/S0301479723024799)
 - **Assistive Technology**: Designing AI tools for navigation assistance and scene understanding (using VLM) for visually impaired individuals, and others. Example papers: [UIC 2014](https://ieeexplore.ieee.org/abstract/document/7306971)  
 - **Health Science and Smart Cities**: Exploring AI applications to improve public health and urban living standards. 
