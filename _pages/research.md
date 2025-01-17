@@ -7,7 +7,7 @@ author_profile: true
 
 My primary research interests lie at the intersection of machine (deep) learning, computer vision, and cyber-physical systems, with applications spanning navigation, positioning, mapping, object detection, and semantic segmentation, among other areas. Additionally, I am also interested in interdisciplinary research that integrates these core domains with diverse fields such as disaster prevention and management, environmental monitoring, health sciences, assistive technologies, and smart cities. These interdisciplinary efforts aim to address real-world challenges while leveraging advances in AI and data science.
 
-Within these research areas, my work can be broadly categorized into two main domains: 1) fundamental AI and data science, and 2) interdisciplinary applications.
+Within these research areas, my work can be broadly categorized into two main domains: 1) fundamental AI and data science, and 2) interdisciplinary applications. In many cases, the focus is on developing AI and data science techniques to address interdisciplinary challenges.
 
 <font size="4" color="purple"><b>Fundamental AI and Data Science:</b></font>
 - **Deep Learning for Computer Vision**: Developing advanced deep learning techniques for applications like object detection and segmentation. Example papers: [RSE 2025](https://www.sciencedirect.com/science/article/pii/S0034425724006102)
