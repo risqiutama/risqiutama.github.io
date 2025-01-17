@@ -25,6 +25,7 @@ I lead a research group on **Machine Intelligence and Vision** and co-lead the [
 **Past Members**
 - Ni Made Sunarti (main). MDS 2022 ~ 2024. Now: SVP CIMB Niaga.
 - Vicky Feliren (main). RA 2023 ~ 2024. Now: Data Scientist at eFishery and MDS student at MI.
+- Muhamad Fahriza Novriansyah (main). RA 2023 ~ 2024. Now: Senior Analyst at Accenture.
 - Irfan Dwiki Bhaswara (main). RA 2022 ~ 2023. Now: PhD Student at UNSW, Australia.
 - Bahrul Ilmi Nasution (main). RA 2022 ~ 2023. Now: PhD Student at the University of Manchester, UK.
 - Tahjudil Witra (associate). RA 2022 ~ 2023. Now: Geospatial Data Scientist at biometrio.earth, Germany.
