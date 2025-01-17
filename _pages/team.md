@@ -38,4 +38,4 @@ I lead a research group on **Machine Intelligence and Vision** and co-lead the [
 
 PS:
 **Main**: I serve as the primary supervisor.
-**Associate**: I act as an associate supervisor.
+**Associate**: I act as an associate (or co-) supervisor.
