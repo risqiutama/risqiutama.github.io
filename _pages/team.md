@@ -25,7 +25,7 @@ I lead a research group on **Machine Intelligence and Vision** and co-lead the [
 
 **Past Members**
 - Ni Made Sunarti (main). MDS 2022 ~ 2024. Now: SVP CIMB Niaga.
-- Vicky Feliren (main). RA 2023 ~ 2024. Now: Research Scientist at eFishery and MDS student at MI.
+- Vicky Feliren (main). RA 2023 ~ 2024. Now: Research Scientist at eFishery.
 - Nur Laily Romadhotul Husna (associate). RA 2022 ~ 2024. Now: Data Analyst at JSC.
 - Muhamad Fahriza Novriansyah (main). RA 2023 ~ 2024. Now: Senior Analyst at Accenture.
 - Gabriella Christin (main). Intern 2023 ~ 2024. Now: Product Manager at Sprout Digital Labs.
