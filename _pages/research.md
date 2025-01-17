@@ -75,7 +75,7 @@ The project aims to help a fintech institution improve its risk assessment of in
 
 <font size="4" color="green"><b>Regulating Sexual VAWs in Metaverse: An Interdisciplinary Diagnosis</b></font>
 
-The aim of the project is to legitimise the regulation of sexual violence against women in metaverse by providing various use-based justifications, to explore various Human-Computer Interaction (HCI) in the context of metaverse which has the potential to fertilise VAWs, and to explore and map aspects that may contribute to the development of an ecosystem of trust in metaverse.
+The aim of the project is to legitimise the regulation of sexual violence against women in metaverse by providing various use-based justifications, to explore various Human-Computer Interaction (HCI) in the context of metaverse which has the potential to fertilise VAWs, and to explore and map aspects that may contribute to the development of an ecosystem of trust in metaverse, including by analysing and modelling social media data using machine learning.
 
 **Funding**: Meta/Facebook (Co-PI), PI is from Monash Malaysia
 
