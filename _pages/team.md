@@ -10,14 +10,14 @@ I lead a research group on **Machine Intelligence and Vision** and co-lead the [
 **PhD Students**
 - Alif Handoyo (main). 2024 ~ now. 
 - Risty Khoirunisa (associate). 2024 ~ now. 
-- Adnan Islam (associate). 2022 ~ now. 
+- Adnan Islam (associate, main from Monash Australia). 2022 ~ now. 
 
 **Master Students**
 - Khoirunnisa Fatimah (main). 2024 ~ now.
 - Rigad Irhasyi (main). 2024 ~ now.
 - Surviantoro Yudanardi (main). 2024 ~ now.
 - Tri Ubaya (main). 2024 ~ now.
-- Maulidi Adi Prasetia (associate w/ EEIT UGM). 2024 ~ now.
+- Maulidi Adi Prasetia (associate, main from EEIT UGM). 2024 ~ now.
 
 **Research Assistants (RA)**
 - Alif Ilham Madani (main). 2023 ~ now.
