@@ -32,6 +32,7 @@ author_profile: true
   * Elsevier Neurocomputing
   * Springer Journal of Intelligent & Robotic Systems
   * Nature Springer - Machine Vision and Applications
+  * Nature Scientific Reports
   * Etc.
 * Research Grant Reviewer
   * External Reviewer for National Science Centre (NSC), Poland
