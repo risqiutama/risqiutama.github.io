@@ -27,6 +27,7 @@ author_profile: true
   * IEEE Robotics and Automation Letters
   * ACM Computing Surveys
   * ACM Transactions on Internet of Things
+  * ACM Transactions on Sensor Networks
   * Elsevier Information Fusion
   * Elsevier Future Generation Computer Systems
   * Elsevier Neurocomputing
