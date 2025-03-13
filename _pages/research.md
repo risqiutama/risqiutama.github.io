@@ -58,7 +58,7 @@ This research seeks to develop an intelligent remote sensing system that can seg
 
 **Jobs**: [Multiple positions available for Research Associate/Research Assistant!](https://risqiutama.github.io/publication/opening_ra_citarum_2022) (Application closed)
 
-**Publications**: [IEEE GSRL 2024](https://ieeexplore.ieee.org/abstract/document/10750225) [Q1, IF=4], [AQUA]([In-press](https://iwaponline.com/aqua/article/74/2/267/106789/Enhancing-urban-resilience-through-integrated) [Q2, IF=2.1]
+**Publications**: [IEEE GSRL 2024](https://ieeexplore.ieee.org/abstract/document/10750225) [Q1, IF=4], [AQUA](https://iwaponline.com/aqua/article/74/2/267/106789/Enhancing-urban-resilience-through-integrated) [Q2, IF=2.1]
 
 -----
 
