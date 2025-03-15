@@ -20,7 +20,7 @@ Recent News
 ======
 * December 2024. 1 paper is accepted to RSE (IF=11.1). See [here](https://www.sciencedirect.com/science/article/pii/S0034425724006102).
 * October 2024. [ProCANet](https://ieeexplore.ieee.org/abstract/document/10750225) is accepted to IEEE GSRL.
-* September 2024. Funding received from [GCBC UK](https://www.gcbc.org.uk) as co-investigator.
+* September 2024. Funding received from [GCBC UK](https://www.gcbc.org.uk/project/exploring-sustainable-land-use-pathways-for-ecosystems-food-security-and-poverty-alleviation-opportunities-for-indonesias-food-estate-programme/) as co-investigator.
 * August 2024. Promoted to Associate Professor at MI!
 * June 2024. I will serve as Senior Program Committee for AAAI 2025.
 * March 2024. 1 paper is accepted to CHI.
