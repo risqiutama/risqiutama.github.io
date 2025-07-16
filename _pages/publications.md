@@ -17,6 +17,10 @@ _PS: The journal rank (Q4-Q1) and the conference rank (C-A*) presented below are
 
 2025
 ----
+- <b>[A holistic framework for examining complex problems in energy transition solutions](https://www.cell.com/one-earth/fulltext/S2590-3322(25)00075-2?uuid=uuid%3A450830bc-ed46-4458-a52a-5b304f4c35c0) </b> 
+<br> E. Bria, D. Kemp, R. A. Kuswati, K. Sturman, <b>Muhamad Risqi U. Saputra</b>, and A. Lechner <br>
+<i> One Earth, Vol. 8, Issue 5, 2025. </i> <font color="#FF7F00">[Q1, IF=15.3]</font>
+
 - <b>[Multi-modal deep learning approaches to semantic segmentation of mining footprints with multispectral satellite imagery](https://www.sciencedirect.com/science/article/pii/S0034425724006102) </b> 
 <br> <b>Muhamad Risqi U. Saputra</b>, I. Bhaswara, B. Nasution, M. Ang, N. Husna, T. Witra, V. Feliren, J. Owen, D. Kemp, and A. Lechner <br>
 <i> Remote Sensing of Environment (<b>RSE</b>), Vol. 318, 2025. </i> <font color="#FF7F00">[Q1, IF=11.1]</font>
