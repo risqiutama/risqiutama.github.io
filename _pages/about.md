@@ -18,6 +18,9 @@ I am always open to collaborations with individuals from academia or industry an
 
 Recent News
 ======
+* July 2025. I will serve as SPC for AAAI 2025.
+* March 2025. 3 works (1 full paper) accepted to [IGARSS 2025](https://www.2025.ieeeigarss.org/).
+* March 2025. 1 paper accepted to One Earth (IF=15.3). See [here](https://www.cell.com/one-earth/fulltext/S2590-3322(25)00075-2?uuid=uuid%3A450830bc-ed46-4458-a52a-5b304f4c35c0).
 * December 2024. 1 paper is accepted to RSE (IF=11.1). See [here](https://www.sciencedirect.com/science/article/pii/S0034425724006102).
 * October 2024. [ProCANet](https://ieeexplore.ieee.org/abstract/document/10750225) is accepted to IEEE GSRL.
 * September 2024. Funding received from [GCBC UK](https://www.gcbc.org.uk/project/exploring-sustainable-land-use-pathways-for-ecosystems-food-security-and-poverty-alleviation-opportunities-for-indonesias-food-estate-programme/) as co-investigator.
