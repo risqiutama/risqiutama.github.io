@@ -18,7 +18,7 @@ I am always open to collaborations with individuals from academia or industry an
 
 Recent News
 ======
-* July 2025. I will serve as SPC for AAAI 2025.
+* July 2025. I will serve as SPC for AAAI 2026.
 * March 2025. 3 works (1 full paper) accepted to [IGARSS 2025](https://www.2025.ieeeigarss.org/).
 * March 2025. 1 paper accepted to One Earth (IF=15.3). See [here](https://www.cell.com/one-earth/fulltext/S2590-3322(25)00075-2?uuid=uuid%3A450830bc-ed46-4458-a52a-5b304f4c35c0).
 * December 2024. 1 paper is accepted to RSE (IF=11.1). See [here](https://www.sciencedirect.com/science/article/pii/S0034425724006102).
@@ -28,7 +28,7 @@ Recent News
 * June 2024. I will serve as Senior Program Committee for AAAI 2025.
 * March 2024. 1 paper is accepted to CHI.
 * June 2023. 1 paper is accepted to IROS.
-* January 2023. I will be the Senior Program Committee for AAAI 2023 and 2024.
+* January 2023. I will serve as Senior Program Committee for AAAI 2023 and 2024.
 * October 2022. [Funding from Meta (Facebook) Research](https://research.facebook.com/blog/2022/9/announcing-the-winners-of-the-2022-meta-arvr-policy-research-request-for-proposals-for-the-asia-pacific-region/) is secured as co-PI!
 * August 2022. Funding from Monash Indonesia Seed Innovation Grant is secured for 2 projects.
 * July 2022. [1 paper](https://arxiv.org/pdf/2206.01589.pdf) is accepted to IROS.
