@@ -8,9 +8,11 @@ author_profile: true
 I lead a research group on **Machine Intelligence and Vision** and co-lead the [Mining Spatial Data Intelligence](https://www.monash.edu/indonesia/our-research/mining-ai-and-gis) research hub.
 
 **PhD Students**
-- Alif Handoyo (main). 2024 ~ now. 
-- Risty Khoirunisa (associate). 2024 ~ now. 
-- Adnan Islam (associate, main from Monash Australia). 2022 ~ now. 
+- Alif Handoyo (main). 2024 ~ now.
+- Imam Maulana Arief (main). 2025 ~ now.
+- Risty Khoirunisa (associate). 2024 ~ now.
+- Advendio Desandros (associate). 2025 ~ now.
+- Adnan Islam (associate, main from Monash Australia). 2022 ~ now.
 
 **Master Students**
 - Khoirunnisa Fatimah (main). 2024 ~ now.
