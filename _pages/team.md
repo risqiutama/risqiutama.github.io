@@ -12,7 +12,9 @@ I lead a research group on **Machine Intelligence and Vision** and co-lead the [
 - Imam Maulana Arief (main). 2025 ~ now.
 - Risty Khoirunisa (associate). 2024 ~ now.
 - Advendio Desandros (associate). 2025 ~ now.
+- Helena Widiarti (associate). 2026 ~ now.
 - Adnan Islam (associate, main from Monash Australia). 2022 ~ now.
+- Ziwei Chen (associate, main from University of Nottingham, Malaysia). 2025 ~ now.
 
 **Master Students**
 - Khoirunnisa Fatimah (main). 2024 ~ now.
