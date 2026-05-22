@@ -18,6 +18,7 @@ I am always open to collaborations with individuals from academia or industry an
 
 Recent News
 ======
+* April 2026. 1 paper accepted to IJCAI (A*)!
 * Oct 2025. Our paper on Personalized Federated Learning ([FedPPA](https://arxiv.org/abs/2510.14698#)) is accepted to TrustCom 2025.
 * July 2025. I will serve as SPC for AAAI 2026.
 * March 2025. 3 works (1 full paper) accepted to [IGARSS 2025](https://www.2025.ieeeigarss.org/).
